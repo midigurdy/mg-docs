@@ -99,6 +99,7 @@ latex_elements = {
     'fncychap': '\\usepackage[Bjornstrup]{fncychap}',
     'figure_align': 'H',
     'papersize': 'a4paper',
+    'releasename': 'Version',
 }
 
 # -- Options for spelling plugin -------------------------------------------------
