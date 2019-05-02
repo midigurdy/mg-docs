@@ -20,7 +20,7 @@ release = '1.1.5'
 
 language = 'en'
 
-master_doc = 'contents'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
@@ -89,7 +89,7 @@ html_css_files = [
 # -- Options for LaTeX output -------------------------------------------------
 
 latex_documents = [
-    ('contents', 'midigurdy.tex', 'MidiGurdy Manual', 'Marcus Weseloh', 'manual', True),
+    ('index', 'midigurdy.tex', 'MidiGurdy Manual', 'Marcus Weseloh', 'manual', True),
 ]
 
 latex_show_pagerefs = True
