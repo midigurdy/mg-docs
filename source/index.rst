@@ -17,8 +17,8 @@ information about the instrument, please visit http://www.midigurdy.com.
 
         - `Single HTML page <../singlehtml/index.html>`_
         - `Separate HTML pages <../html/index.html>`_
-        - `Download PDF document <../latex/midigurdy_manual.pdf>`_
-        - `Download eBook (EPUB) <../epub/midigurdy_manual.epub>`_
+        - `Download PDF document <../download/midigurdy_manual.pdf>`_
+        - `Download eBook (EPUB) <../download/midigurdy_manual.epub>`_
 
 
 
