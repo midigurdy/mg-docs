@@ -14,6 +14,8 @@ Mechanical Features
 
 .. figure:: images/mechanical_features.png
     :alt: The mechanical features of the MidiGurdy
+    :width: 12cm
+    :class: img-auto
 
     The mechanical features of the MidiGurdy
 
@@ -75,6 +77,8 @@ functions of the MidiGurdy: the five buttons in the tangent box lid and the
 main user interface.
 
 .. figure:: images/lid_buttons.png
+    :width: 9cm
+    :class: img-auto
 
     Buttons in the tangent box lid
 
@@ -135,6 +139,8 @@ User Interface
 --------------
 
 .. figure:: images/user_interface.png
+    :width: 9cm
+    :class: img-auto
 
     The main user interface of the MidiGurdy
 

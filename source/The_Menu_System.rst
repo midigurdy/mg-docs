@@ -14,6 +14,8 @@ Home screen
 -----------
 
 .. figure:: images/menu_home.png
+    :width: 7cm
+    :class: img-auto
 
     The home screen of the instrument menu
 
@@ -62,6 +64,8 @@ Chien Sensitivity
 -----------------
 
 .. figure:: images/menu_chien_sens.png
+    :width: 7cm
+    :class: img-auto
 
 Probably one of the most important settings you will want to change on the
 MidiGurdy is the sensitivity of the chien. On an acoustic hurdy-gurdy, you
@@ -82,17 +86,24 @@ Volume Menus
 ------------
 
 .. figure:: images/menu_main_vol.png
+    :width: 7cm
+    :class: img-auto
 
 When you press the rotary knob ROT on the home screen, you reach the Main
 Volume menu. Turn ROT left and right to decrease or increase the main volume of
 the instrument.
 
 .. figure:: images/menu_reverb_vol.png
+    :width: 7cm
+    :class: img-auto
 
 Press **ROT** again to reach the Reverb Volume menu, turn it left and right to
 decrease or increase the sympathetic string reverberation volume.
+d
 
 .. figure:: images/menu_key_vol.png
+    :width: 7cm
+    :class: img-auto
 
 Press **ROT** again to reach the Key Volume menu, turn it left or right to
 decrease or increase the volume of the simulated mechanical key noise.
@@ -103,6 +114,8 @@ String Menus
 ------------
 
 .. figure:: images/menu_m1.png
+    :width: 7cm
+    :class: img-auto
 
 The String Menus are used to change the setup of all melody, drone and
 trompette strings of the MidiGurdy.  You can access the String Menus by
@@ -114,6 +127,8 @@ shown above the buttons. Only if you see other labels above the buttons will
 their function be different.
 
 .. figure:: images/menu_m123.png
+    :width: 7cm
+    :class: img-auto
 
 When you press a String Menu button once, you open the String Menu for the
 first string of the chosen type, as indicated by the bar on the left of the
@@ -197,6 +212,8 @@ Preset Menu
 -----------
 
 .. figure:: images/menu_preset.png
+    :width: 7cm
+    :class: img-auto
 
 Presets allow you to save and load the setup of the instrument very quickly.
 The MidiGurdy comes with a few pre-configured presets, but you can create your
@@ -216,6 +233,8 @@ To save the current instrument setup to a new preset, go to the last entry in
 the preset list called “New preset...” and press the rotary knob.
 
 .. figure:: images/menu_save_preset.png
+    :width: 7cm
+    :class: img-auto
 
 A new screen will appear in which you can enter a name for the new preset.  The
 first character of the name is highlighted and can be edited by turning ROT
@@ -249,6 +268,8 @@ Editing a preset
 ~~~~~~~~~~~~~~~~
 
 .. figure:: images/menu_edit_preset.png
+    :width: 7cm
+    :class: img-auto
 
 To edit an existing preset, select the preset you want to move with the rotary
 knob and then do a **long press** on ROT to open the Edit Preset Menu.  The
@@ -291,6 +312,8 @@ Configuration Menu
 ------------------
 
 .. figure:: images/menu_config.png
+    :width: 7cm
+    :class: img-auto
 
 The configuration menu contains many settings that affect the instrument as a
 whole:

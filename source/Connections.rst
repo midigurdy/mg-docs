@@ -10,6 +10,8 @@ Power Supply
 
 .. figure:: images/power_connections.png
     :alt: MidiGurdy power connections
+    :width: 9cm
+    :class: img-auto
 
     The MidiGurdy power connections
 
@@ -57,6 +59,8 @@ Headphones
 
 .. figure:: images/connecting_headphones.png
     :alt: Connecting headphones to the MidiGurdy
+    :width: 9cm
+    :class: img-auto
 
     Connecting headphones to the MidiGurdy
 
@@ -72,6 +76,8 @@ Other Sound Equipment
 
 .. figure:: images/di_box_connections.png
     :alt: Connecting other sound equipment
+    :width: 9cm
+    :class: img-auto
 
     Connecting other sound equipment
 

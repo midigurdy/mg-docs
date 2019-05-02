@@ -27,6 +27,8 @@ Changing the string tension
 ---------------------------
 
 .. figure:: images/string_tension.png
+    :width: 9cm
+    :class: img-auto
 
     Location of the string tension tuner
 
@@ -46,6 +48,8 @@ Changing the key travel
 -----------------------
 
 .. figure:: images/key_sensor_screws.png
+    :width: 9cm
+    :class: img-auto
 
     Location of the key sensor screws
 
