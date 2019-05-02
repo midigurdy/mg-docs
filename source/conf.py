@@ -91,7 +91,7 @@ html_css_files = [
 # -- Options for LaTeX output -------------------------------------------------
 
 latex_documents = [
-    ('index', 'midigurdy.tex', 'MidiGurdy Manual', 'Marcus Weseloh', 'manual', True),
+    ('index', 'midigurdy_manual.tex', 'MidiGurdy Manual', 'Marcus Weseloh', 'manual', True),
 ]
 
 latex_show_pagerefs = True
@@ -103,6 +103,11 @@ latex_elements = {
     'papersize': 'a4paper',
     'releasename': 'Version',
 }
+
+# -- Options for epub output -------------------------------------------------
+
+epub_basename = 'midigurdy_manual'
+epub_theme = 'epub'
 
 # -- Options for spelling plugin -------------------------------------------------
 

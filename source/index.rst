@@ -5,8 +5,20 @@ For firmware version |version|
 .. image:: images/midigurdy.png
     :scale: 33%
 
-This is the user manual for the MidiGurdy - an electronic hurdy-gurdy. For more
+This is the online user manual for the MidiGurdy - an electronic hurdy-gurdy. For more
 information about the instrument, please visit http://www.midigurdy.com.
+
+.. only:: builder_html or builder_singlehtml
+
+    .. admonition:: Other formats
+
+        If you would like to read this documentation in another format, please see the links below:
+
+        - `Single HTML page <../singlehtml/index.html>`_
+        - `Separate HTML pages <../html/index.html>`_
+        - `Download PDF document <../latex/midigurdy_manual.pdf>`_
+        - `Download eBook (EPUB) <../epub/midigurdy_manual.epub>`_
+
 
 
 Table of Contents
