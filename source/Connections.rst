@@ -125,7 +125,3 @@ the picture above.
 
 The USB-MIDI connection setup can be configured via the web interface of the
 MidiGurdy. Please see the section :ref:`web-interface` for more details.
-
-.. spelling::
-    mAh
-    DI

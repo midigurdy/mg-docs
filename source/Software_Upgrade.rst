@@ -97,6 +97,3 @@ Additional Notes
 You can always upgrade or downgrade to any version of the MidiGurdy software.
 But please take special care when upgrading or downgrading between different
 major versions!
-
-.. spelling::
-    swu

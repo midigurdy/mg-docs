@@ -82,7 +82,3 @@ I hear a lot of noise or humming when connecting the instrument to an external s
   of metal and touches the front cover shielding the connectors. A
   connection between plug and front cover might lead to ground loops and a
   lot of noise in the output.
-
-
-.. spelling::
-    TRS

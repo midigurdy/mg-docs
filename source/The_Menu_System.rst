@@ -344,7 +344,3 @@ whole:
 
 * **Disp. Timeout** – Controls the number of seconds of inactivity after which
   the menu system will return to the Home Screen automatically.
-
-.. spelling::
-
-    Tromp
