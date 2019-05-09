@@ -33,6 +33,7 @@ Table of Contents
 
     Connections
     The_Menu_System
+    MIDI
     The_Web_Interface
     Software_Upgrade
     Adjusting_the_Keyboard

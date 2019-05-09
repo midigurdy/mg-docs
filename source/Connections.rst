@@ -90,19 +90,20 @@ breakout box to the amplifier or other sound equipment.
 
 .. _usb-connection:
 
-Data Connection to Computer or Tablet via USB
----------------------------------------------
+USB Data Connection to Computer or Tablet
+-----------------------------------------
 
-To connect the MidiGurdy with a desktop computer, tablet or other device please
-use a USB-A to USB-B cable, as used for most USB printers.
+To connect the MidiGurdy with a desktop computer or tablet please use a USB-A
+to USB-B cable, as used for most USB printers. (This cable is not shipped with the
+instrument and needs to be purchased separately.)
 
 Once connected, the MidiGurdy will act as two separate USB devices via this
 connection:
 
-* as a USB network card
-* as a USB-MIDI controller
+#. as a USB network card
+#. as a USB-MIDI controller
 
-Both function use a standard implementation and should therefore work on any
+Both functions use a standard implementation and should therefore work on any
 modern computer or tablet without installing additional drivers.
 
 .. note::
@@ -112,6 +113,9 @@ modern computer or tablet without installing additional drivers.
 
 For more information on how to use the MidiGurdy via the USB connection, please
 refer to section :ref:`web-interface`.
+
+For more information on how to use the instrument as a MIDI device with your computer
+or tablet, please see section :ref:`midi`.
 
 External Synthesizer via USB-MIDI Connection
 --------------------------------------------
