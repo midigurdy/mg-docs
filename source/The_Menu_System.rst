@@ -207,6 +207,25 @@ contains a few additional items that are only relevant for melody strings:
       velocity-sensitive, which means that the volume of the sound is dependent
       on how fast you press the keys.
 
+Trompette String Items
+~~~~~~~~~~~~~~~~~~~~~~
+
+In addition to the items common to all string types, the Trompette String Menu
+contains a few additional items that are only relevant for trompette strings:
+
+* **Mode** – This setting controls how the wheel speed affects the sound
+  generation of this string, especially how the chien sound is generated and
+  controlled:
+
+    * “MidiGurdy”: (default) This mode is the default and the correct mode
+      for all hurdy-gurdy trompette / chien sounds designed for the MidiGurdy.
+
+    * “Percussion”: this mode is useful if you want to use the chien of the
+      trompette string to trigger other, non-hurdy-gurdy sounds like drums,
+      percussion, plugged base or similar instruments. The string will only
+      output sound if the chien would sound, the volume of the sound depends on
+      how hard and fast the attach of your coup is.
+
 
 Preset Menu
 -----------
