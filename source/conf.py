@@ -9,14 +9,15 @@
 import os
 SOURCE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+version = open(os.path.join(SOURCE_DIR, 'VERSION')).read()
+release = version
+
 
 # -- Project information -----------------------------------------------------
 
 project = 'MidiGurdy User Manual'
 copyright = '2019, Marcus Weseloh'
 author = 'Marcus Weseloh'
-version = '1.1.5'
-release = '1.1.5'
 
 language = 'en'
 
