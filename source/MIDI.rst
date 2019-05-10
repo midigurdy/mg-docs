@@ -105,8 +105,8 @@ The MidiGurdy outputs MIDI messages on three separate MIDI channels, one for
 each string type.  By default, the following MIDI channels are used:
 
 - Melody: MIDI channel 1
-- Drone: MIDI channel 2
-- Trompette: MIDI channel 3
+- Trompette: MIDI channel 2
+- Drone: MIDI channel 3
 
 .. admonition:: Which strings output via MIDI
     
