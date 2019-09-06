@@ -359,6 +359,9 @@ whole:
   the sound of the key noise channel and change the volume and stereo balance
   of the key noise.
 
+* **MIDI…** - opens the MIDI configuration menu. Please see :ref:`midi` on how
+  to configure the MIDI input and output.
+
 * **Brightness** – Controls the brightness of the display.
 
 * **Disp. Timeout** – Controls the number of seconds of inactivity after which
