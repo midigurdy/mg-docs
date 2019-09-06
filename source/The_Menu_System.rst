@@ -75,10 +75,13 @@ turn **ROT** left or right when you are on the Home Screen.
 Turn right to make the chien more sensitive (to start buzzing at lower cranking
 speeds), turn left to make it less sensitive.
 
-Please note that the chien sensitivity affects all three trompette strings at
-the same time. There is currently no way to have individual chien sensitivities
-for trompette strings, but this might be added in a future version of the
-software.
+.. admonition:: Single or separate chien sensitivity
+
+    Please note that by default the chien sensitivity affects all three
+    trompette strings at the same time. If you wish to control the three
+    chien sensitivities separately, please enable this feature in the
+    web-interface by going to "Advanced / Settings" and enabling the option
+    "Separate chien sensitivities" in the "Features" box.
 
 .. _volume-menus:
 
