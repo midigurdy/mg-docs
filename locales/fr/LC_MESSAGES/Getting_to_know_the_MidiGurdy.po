@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: 2019-09-21 17:36+0000\n"
+"PO-Revision-Date: 2019-09-21 22:01+0000\n"
 "Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:2
 msgid "Getting to know the MidiGurdy"
-msgstr "Présentation de la MidiGurdy"
+msgstr "Découvrir la MidiGurdy"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:4
 msgid ""
@@ -196,7 +196,7 @@ msgid ""
 msgstr ""
 "Ces trois boutons sont utilisés pour commuter individuellement (\"on\" ou \""
 "off\") les cordes sur la roue.  Ils sont disposés comme sur une vielle "
-"acoustique:"
+"acoustique :"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:96
 msgid "**S1** drone string (closest to the keyboard)"
