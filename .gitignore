@@ -1,2 +1,3 @@
 build
 release
+locales/*/LC_MESSAGES/*.mo
