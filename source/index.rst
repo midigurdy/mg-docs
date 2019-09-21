@@ -7,7 +7,7 @@ For firmware version |version|
     :align: center
 
 This is the online user manual for the MidiGurdy - an electronic hurdy-gurdy. For more
-information about the instrument, please visit http://www.midigurdy.com.
+information about the instrument, please visit https://www.midigurdy.com.
 
 .. only:: builder_html or builder_singlehtml
 
