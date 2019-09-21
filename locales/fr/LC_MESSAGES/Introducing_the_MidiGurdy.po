@@ -4,39 +4,46 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-21 17:46+0000\n"
+"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:2
 msgid "Introducing the MidiGurdy"
-msgstr ""
+msgstr "Présentation de la MidiGurdy"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:4
 msgid ""
 "The MidiGurdy is a fully electronic hurdy-gurdy that is designed to have "
 "a playing-feel as close to an acoustic hurdy-gurdy as possible."
 msgstr ""
+"La MidiGurdy est une vielle à roue totalement electronique, é conçue pour "
+"sonner et donner des sensations de jeu aussi près que possible de celles "
+"rencontrées avec une vielle acoustique."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:8
 msgid "Intended use"
-msgstr ""
+msgstr "Utilisation prévue"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:10
 msgid ""
 "The main purpose of the MidiGurdy is to be tool for rehearsal, learning "
 "and teaching hurdy-gurdy playing techniques."
 msgstr ""
+"Le principal objectif de la MidiGurdy. est d'être un instrument de "
+"répétition, d'apprentissage et d'enseignement des techniques de jeu."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:13
 msgid ""
@@ -46,6 +53,12 @@ msgid ""
 "use the the mechanical features and software settings to change the "
 "playing feel and sound to match them to your acoustic instrument."
 msgstr ""
+"Prenez-la et jouez-en comme vous le feriez avec une vielle acoustique. Pour "
+"entendre les sons produits, il suffit de brancher un casque audio, de la "
+"connecter à un amplificateur externe ou une table de mixage. Si vous avez "
+"une vielle acoustique, vous pouvez utiliser les caractéristiques mécaniques "
+"et les dispositions du logiciel pour changer vos sensations de jeu et le son "
+"afin de les rendre comparables à celle-là."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:19
 msgid ""
@@ -54,6 +67,11 @@ msgid ""
 "speed of your crank. Or use the visualisation to teach your trompette "
 "technique to others."
 msgstr ""
+"Raccordez la MidiGurdy à un ordinateur et vous pourrez visualiser votre "
+"technique de \"trompette\" (coup de poignet). Regardez où sont placés vos \""
+"coups\" et contrôlez la vitesse de la manivelle. Vous pouvez aussi utiliser "
+"cette visualisation pour enseigner votre technique de \"trompette\" \" à "
+"d'autres."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:23
 msgid ""
@@ -62,14 +80,17 @@ msgid ""
 "synthesizers or use the built-in software synthesizer with non-hurdy-"
 "gurdy sounds."
 msgstr ""
+"La MidiGurdy est aussi un nouvel instrument électronique à part entière. "
+"Elle peut être utilisée comme un contrôleur MIDI pour piloter des "
+"synthétiseurs externes sans aucune sonorité de vielle."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:28
 msgid "Features"
-msgstr ""
+msgstr "Caractéristiques"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:31
 msgid "No maintenance"
-msgstr ""
+msgstr "Pas d'entretien"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:33
 msgid ""
@@ -78,10 +99,14 @@ msgid ""
 "wheel. Simply pick up the instrument, switch it on and start playing "
 "right away."
 msgstr ""
+"Pas de production de son acoustique signifie, à quelque chose près, pas "
+"d'entretien de jeu : pas de corde à accorder, pas de coton à remplacer, pas "
+"de colophane à appliquer sur la roue.  Il suffit simplement de prendre "
+"l'instrument, le brancher et commencer à jouer."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:38
 msgid "Realistic control"
-msgstr ""
+msgstr "Contrôle réaliste"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:40
 msgid ""
@@ -93,10 +118,17 @@ msgid ""
 "sensitive, offering many of the sound-shaping possibilities of acoustic "
 "instruments."
 msgstr ""
+"La manivelle réagit avec grande précision à votre technique de main droite. "
+"Un frein ajustable physiquement permet de régler à votre guise la force "
+"requise quand vous tournez la roue. Dans le clavier une corde nonvibrante et "
+"à tension réglable, ainsi que les sautereaux à capteurs mobilisables sur les "
+"touches permettent de changer la sensation du jeu sur le clavier. Les "
+"touches répondent à la pression, ce qui ouvre les possibilités de travail du "
+"son, comme sur les instruments acoustiques."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:48
 msgid "Extensible hurdy-gurdy sounds"
-msgstr ""
+msgstr "Extension de la gamme des sonorités de vielle"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:50
 msgid ""
@@ -104,20 +136,25 @@ msgid ""
 "sampled from real instruments. And you can change them or add new sounds "
 "to your liking."
 msgstr ""
+"La MidiGurdy. propose par défaut une sélection de sonorités de vielles "
+"échantillonnées (\"samplées\") à partir d'instruments existants. Vous pouvez "
+"les changer ou en ajouter d'autres à votre goût."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:55
 msgid "Nine strings – in any key or tuning"
-msgstr ""
+msgstr "Neuf cordes - dans toutes les clés et tous les accords"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:57
 msgid ""
 "There are three melody, three drone and three trompette strings you can "
 "configure and control individually."
 msgstr ""
+"Il y a trois chanterelles, trois bourdons et trois chiens, tous "
+"configurables et réglables indépendamment."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:61
 msgid "Practice anywhere - in silence"
-msgstr ""
+msgstr "Pratiquer partout - en \"silence\""
 
 #: ../../source/Introducing_the_MidiGurdy.rst:63
 msgid ""
@@ -125,10 +162,13 @@ msgid ""
 "disturbing anyone. And the smaller form factor compared to most acoustic "
 "instruments make it more portable."
 msgstr ""
+"Avec un casque audio, il est possible de jouer la MidiGurdy. tard dans la "
+"nuit en ne dérangeant personne. Sa petite taille comparée à la plupart des "
+"instruments acoustiques la rend très facilement transportable."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:68
 msgid "Two interfaces"
-msgstr ""
+msgstr "Deux Interfaces"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:70
 msgid ""
@@ -136,14 +176,18 @@ msgid ""
 "display on the instrument itself, but also more comfortably via a Web-"
 "Browser when you connect the MidiGurdy to your computer."
 msgstr ""
+"Un grand nombre des caractéristiques de la MidiGurdy. peut être contrôlé via "
+"les boutons et l'affichage sur l'instrument lui-même, mais aussi encore plus "
+"facilement via un navigateur -Web quand vous la connectez à votre ordinateur."
 
 #: ../../source/Introducing_the_MidiGurdy.rst:75
 msgid "Open to all"
-msgstr ""
+msgstr "Ouvert à tous"
 
 #: ../../source/Introducing_the_MidiGurdy.rst:77
 msgid ""
 "The MidiGurdy software and sounds are all released under an Open-Source "
 "license and new versions will always be free of charge."
 msgstr ""
-
+"Le logiciel MidiGurdy. et les sonorités sont libres de droit (Open Source) "
+"et les nouvelles versions seront toujours gratuites."
