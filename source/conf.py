@@ -9,7 +9,7 @@
 import os
 SOURCE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-version = open(os.path.join(SOURCE_DIR, 'VERSION')).read()
+version = open(os.path.join(SOURCE_DIR, 'VERSION')).read().strip()
 release = version
 
 
