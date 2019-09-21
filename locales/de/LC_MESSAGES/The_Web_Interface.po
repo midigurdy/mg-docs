@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Marcus Weseloh
+# This file is distributed under the same license as the MidiGurdy User
+# Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 13:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/The_Web_Interface.rst:4
+msgid "The Web Interface"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:6
+msgid ""
+"When you connect the MidiGurdy to a desktop computer, laptop or tablet "
+"via the USB connection, you will be able to access the Web Interface to "
+"configure the instrument, upload new sounds and to use the visualisation "
+"of your trompette technique."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:11
+msgid ""
+"In the following description we always call the computing device you are "
+"using to access the MidiGurdy “computer”."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:15
+msgid "Making the connection"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:17
+msgid ""
+"As explained in :ref:`usb-connection`, please use a USB-A to USB-B cable "
+"to connect the MidiGurdy to your computer."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:20
+msgid ""
+"Once the connection has been established, the MidiGurdy will present "
+"itself as a USB network card to your computer. It acts as a a *class-"
+"compliant USB* device, which means that you should not have to install "
+"special drivers to use it."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:25
+msgid ""
+"The connection has been tested to work on Windows 7, Windows 8, Windows "
+"10, OS X, Linux and iOS."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:28
+msgid "Android Support"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:30
+msgid ""
+"Sadly, the network connection is currently only supported on rooted "
+"Android devices.  If you don't know what a *rooted Android device* is, "
+"then you probably don't have one."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:34
+msgid ""
+"The MidiGurdy and your computer will automatically set up a private "
+"network, so only your computer and the MidiGurdy can talk to each other. "
+"At no point will the MidiGurdy be accessible to the Internet or someone "
+"on the Internet be able to reach the MidiGurdy. Even computers on your "
+"local Wi-Fi network will not be able to access the MidiGurdy."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:40
+msgid ""
+"By default, the IP address of the MidiGurdy is **10.10.10.10**. So once "
+"the connection has been established, open the Web Browser of your choice "
+"and type the following into the address bar:"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:44
+msgid "http://10.10.10.10"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:46
+msgid ""
+"Alternatively, if your computer supports *ZeroConf* (Linux, Android) or "
+"*Bonjour* (OS X, Windows), you should be able to access the MidiGurdy via"
+" the following URL:"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:50
+msgid "http://midigurdy.local"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:52
+msgid ""
+"Windows does not support ZeroConf or Bonjour by default, but you can can "
+"install the “Bonjour Print Services for Windows” from the Apple Website "
+"to enable support for Bonjour."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:56
+msgid ""
+"If you see a web page saying “Welcome to the MidiGurdy!” in your browser,"
+" the connection has been established successfully and you are all ready "
+"to go."
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:61
+msgid "Features of the Web Interface"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:63
+msgid ""
+"The Web Interface gives you access to all settings that are also "
+"available via the Menu System on the instrument itself. In addition, "
+"there are some functions that are only available via the Web-Interface, "
+"namely:"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:67
+msgid "Adding and removing sounds"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:69
+msgid "Visualisation of the trompette technique"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:71
+msgid "Advanced configuration to change the response to keyboard and crank"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:73
+msgid "Keyboard calibration"
+msgstr ""
+
+#: ../../source/The_Web_Interface.rst:77
+msgid ""
+"The features of the web-interface have not been documented properly yet. "
+"Please watch this space for updated documentation."
+msgstr ""
+

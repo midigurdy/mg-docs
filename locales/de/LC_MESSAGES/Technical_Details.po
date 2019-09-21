@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Marcus Weseloh
+# This file is distributed under the same license as the MidiGurdy User
+# Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 13:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/Technical_Details.rst:2
+msgid "Technical Details"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:5
+msgid "Dimensions"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:10
+msgid "Weight"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:11
+msgid "2.7 kg (without batteries)"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:12
+msgid "Physical dimensions"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:13
+msgid "53 cm x 20 cm x 12,5 cm (Length x Width x Height, maximum values)"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:14
+msgid "Crank thread"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:15
+msgid "M6"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:18
+msgid "Processor"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:23
+msgid "CPU"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:24
+msgid "Dual-Core Coretex-A7 ARM CPU"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:25
+msgid "RAM"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:26
+msgid "1 GB"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:27
+msgid "Operating System"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:28
+msgid "Linux"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:32
+msgid "Electrical Details"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:37
+msgid "Typical power consumption"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:38
+msgid "1 watt"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:39
+msgid "Supply voltage"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:40
+msgid "5V DC with supplied power supply"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:41
+msgid "Battery supply"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:42
+msgid "8x AA/R6/Mignon batteries"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:43
+msgid "Audio Output"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:44
+msgid "Stereo headphone amplifier"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:48
+msgid "Connectors"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:53
+msgid "5V power supply plug"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:54
+msgid "2.1 x 5.5 x 9.5mm (center positive)"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:55
+msgid "Headphone jack"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:56
+msgid "6.3mm stereo (TRS – Tip, Ring, Sleeve)"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:57
+msgid "USB host"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:58
+msgid "USB-A"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:59
+msgid "USB device"
+msgstr ""
+
+#: ../../source/Technical_Details.rst:60
+msgid "USB-B"
+msgstr ""
+

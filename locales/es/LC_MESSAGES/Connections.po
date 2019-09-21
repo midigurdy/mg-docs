@@ -1,0 +1,213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Marcus Weseloh
+# This file is distributed under the same license as the MidiGurdy User
+# Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 13:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/Connections.rst:2
+msgid "Connections"
+msgstr ""
+
+#: ../../source/Connections.rst:4
+msgid ""
+"The connectors at the front of the MidiGurdy connect the instrument with "
+"all external components and devices."
+msgstr ""
+
+#: ../../source/Connections.rst:9
+msgid "Power Supply"
+msgstr ""
+
+#: ../../source/Connections.rst:16
+msgid "The MidiGurdy power connections"
+msgstr ""
+
+#: ../../source/Connections.rst:19
+msgid "The MidiGurdy can be powered from three different sources:"
+msgstr ""
+
+#: ../../source/Connections.rst:21
+msgid "By inserting eight AA / R6 / Mignon batteries or rechargeable batteries"
+msgstr ""
+
+#: ../../source/Connections.rst:23
+msgid "By attaching the included 5V power supply"
+msgstr ""
+
+#: ../../source/Connections.rst:25
+msgid ""
+"By attaching the USB-B port to another USB device like a computer, laptop"
+" or phone charger via a suitable USB cable"
+msgstr ""
+
+#: ../../source/Connections.rst:28
+msgid ""
+"All three power sources can also be connected at the same time. The "
+"MidiGurdy will always choose the best source available and show the "
+"currently selected source in the top right corner of the display."
+msgstr ""
+
+#: ../../source/Connections.rst:32
+msgid ""
+"When the 5V power supply is connected, the instrument will always be "
+"powered via this source and will draw no power from the batteries or the "
+"USB port. When powered via USB and batteries, the instrument will mainly "
+"draw power from the USB connection and only fall back to the batteries if"
+" the USB connection cannot supply enough current."
+msgstr ""
+
+#: ../../source/Connections.rst:38
+msgid "Concerning Batteries"
+msgstr ""
+
+#: ../../source/Connections.rst:40
+msgid ""
+"The MidiGurdy is designed to be used with eight AA batteries (also called"
+" R6 or Mignon cells). Either primary (disposable) or secondary "
+"(rechargeable) cells can be used. We recommend high-capacity 2500mAh NiMH"
+" rechargeable batteries, which will give you an estimated 10 – 12 hours "
+"of solid playing time."
+msgstr ""
+
+#: ../../source/Connections.rst:45
+msgid ""
+"The MidiGurdy does not contain a battery charger. If you use rechargeable"
+" batteries (which we highly recommend), you will need an external charger"
+" to bring them back to charge."
+msgstr ""
+
+#: ../../source/Connections.rst:51
+msgid ""
+"Always replace all batteries when inserting fresh batteries into the "
+"instrument, never replace only individual cells."
+msgstr ""
+
+#: ../../source/Connections.rst:54
+msgid ""
+"Please check the polarity of the batteries carefully before inserting "
+"them into the instrument!"
+msgstr ""
+
+#: ../../source/Connections.rst:58
+msgid "Headphones"
+msgstr ""
+
+#: ../../source/Connections.rst:65
+msgid "Connecting headphones to the MidiGurdy"
+msgstr ""
+
+#: ../../source/Connections.rst:67
+msgid ""
+"The MidiGurdy outputs all sound via the 6,3mm (¼ inch) stereo jack "
+"connector. Simply insert the headphones and adjust the volume of the "
+"instrument to comfortable levels. See :ref:`volume-menus` on how to "
+"change the volume."
+msgstr ""
+
+#: ../../source/Connections.rst:75
+msgid "Other Sound Equipment"
+msgstr ""
+
+#: ../../source/Connections.rst:82
+msgid "Connecting other sound equipment"
+msgstr ""
+
+#: ../../source/Connections.rst:84
+msgid ""
+"To connect the MidiGurdy to an amplifier, a mixing console, recording "
+"device or other sound equipment, please use the supplied Y-cable and "
+"breakout box (\"DI-box\"). Connect the single stereo plug of the Y-cable "
+"to the headphone jack of the MidiGurdy and the two mono plugs to the "
+"ports on the breakout box marked \"Input 1\" and \"Input 2\". Then "
+"connect one or both “Output” ports of the breakout box to the amplifier "
+"or other sound equipment."
+msgstr ""
+
+#: ../../source/Connections.rst:94
+msgid "USB Data Connection to Computer or Tablet"
+msgstr ""
+
+#: ../../source/Connections.rst:96
+msgid ""
+"To connect the MidiGurdy with a desktop computer or tablet please use a "
+"USB-A to USB-B cable, as used for most USB printers. (This cable is not "
+"shipped with the instrument and needs to be purchased separately.)"
+msgstr ""
+
+#: ../../source/Connections.rst:100
+msgid ""
+"Once connected, the MidiGurdy will act as two separate USB devices via "
+"this connection:"
+msgstr ""
+
+#: ../../source/Connections.rst:103
+msgid "as a USB network card"
+msgstr ""
+
+#: ../../source/Connections.rst:104
+msgid "as a USB-MIDI controller"
+msgstr ""
+
+#: ../../source/Connections.rst:106
+msgid ""
+"Both functions use a standard implementation and should therefore work on"
+" any modern computer or tablet without installing additional drivers."
+msgstr ""
+
+#: ../../source/Connections.rst:110
+msgid ""
+"If your device provides enough power via the USB port, the MidiGurdy will"
+" use this connection to power itself, unless the 5V power supply (see "
+"above) is plugged in."
+msgstr ""
+
+#: ../../source/Connections.rst:114
+msgid ""
+"For more information on how to use the MidiGurdy via the USB connection, "
+"please refer to section :ref:`web-interface`."
+msgstr ""
+
+#: ../../source/Connections.rst:117
+msgid ""
+"For more information on how to use the instrument as a MIDI device with "
+"your computer or tablet, please see section :ref:`midi`."
+msgstr ""
+
+#: ../../source/Connections.rst:121
+msgid "External Synthesizer via USB-MIDI Connection"
+msgstr ""
+
+#: ../../source/Connections.rst:123
+msgid ""
+"The MidiGurdy provides a standard USB-MIDI connection via the USB-B port "
+"and can therefore be used to control external synthesizers or other MIDI "
+"capable devices that have a USB-MIDI interface."
+msgstr ""
+
+#: ../../source/Connections.rst:127
+msgid ""
+"Simply attach the MidiGurdy with a suitable USB-A to USB-B cable as shown"
+" in the picture above."
+msgstr ""
+
+#: ../../source/Connections.rst:130
+msgid ""
+"The USB-MIDI connection setup can be configured via the web interface of "
+"the MidiGurdy. Please see the section :ref:`web-interface` for more "
+"details."
+msgstr ""
+

@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Marcus Weseloh
+# This file is distributed under the same license as the MidiGurdy User
+# Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 13:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/Important_notes.rst:2
+msgid "Important notes"
+msgstr ""
+
+#: ../../source/Important_notes.rst:5
+msgid "Handling and maintenance"
+msgstr ""
+
+#: ../../source/Important_notes.rst:9
+msgid ""
+"Always grab the instrument by the body or the rear tangent box support. "
+"Never carry or lift the instrument by the keyboard or individual keys!"
+msgstr ""
+
+#: ../../source/Important_notes.rst:12
+msgid ""
+"Use a soft, dry cloth to clean the instrument, which may be slightly "
+"moistened if necessary."
+msgstr ""
+
+#: ../../source/Important_notes.rst:14
+msgid ""
+"Never use petrol, thinner, alcohol or similar cleaning agents to avoid "
+"damaging or discolouring the surface of the instrument."
+msgstr ""
+
+#: ../../source/Important_notes.rst:17
+msgid ""
+"All user-adjustable screws and controls should only ever be hand-"
+"tightened. Never tighten the screws or tuning knobs with great force."
+msgstr ""
+
+#: ../../source/Important_notes.rst:22
+msgid "Precautions for batteries"
+msgstr ""
+
+#: ../../source/Important_notes.rst:24
+msgid ""
+"The required ambient temperature depends on the batteries used. Refer to "
+"the battery documentation. Never use or store the batteries in extremely "
+"hot places, e.g. in direct sunlight, in a closed vehicle or near a "
+"radiator. This could lead to leakage of battery fluid and shorten the "
+"battery life."
+msgstr ""
+
+#: ../../source/Important_notes.rst:29
+msgid ""
+"Keep the batteries dry and ensure that the connections are never exposed "
+"to moisture. This could lead to overheating or rusting on the battery and"
+" on the connections."
+msgstr ""
+
+#: ../../source/Important_notes.rst:33
+msgid "Make sure that batteries are never within the reach of small children."
+msgstr ""
+
+#: ../../source/Important_notes.rst:35
+msgid ""
+"Never hit the batteries or drop them. Strong shocks can lead to leakage "
+"of battery fluid, excessive heat generation, explosion or fire."
+msgstr ""
+
+#: ../../source/Important_notes.rst:40
+msgid "Further Precautions"
+msgstr ""
+
+#: ../../source/Important_notes.rst:42
+msgid ""
+"Handle the controls and connectors of the instrument with due care. "
+"Excessive handling can lead to damage."
+msgstr ""
+
+#: ../../source/Important_notes.rst:45
+msgid "Never press or hit the display or place heavy objects on it."
+msgstr ""
+
+#: ../../source/Important_notes.rst:47
+msgid ""
+"When making or removing the connections, pull only on the plugs - never "
+"on the cables. This will prevent any damage to the cables and the "
+"instrument."
+msgstr ""
+
+#: ../../source/Important_notes.rst:52
+msgid ""
+"The instrument should only be serviced by an expert. Before opening the "
+"base plate, the instrument must be disconnected from all power sources "
+"(power supply, USB connection, battery)."
+msgstr ""
+
+#: ../../source/Important_notes.rst:58
+msgid ""
+"Only use the original 5V power supply to power the instrument via the "
+"power connector.  And only connect the 5V power supply to a suitable "
+"power outlet. Never plug it into an outlet of another voltage."
+msgstr ""
+
+#: ../../source/Important_notes.rst:64
+msgid "Notice regarding disposal (EU only)"
+msgstr ""
+
+#: ../../source/Important_notes.rst:70
+msgid ""
+"When this “crossed-out wheeled bin” symbol is displayed on the product, "
+"owner’s manual, battery, or battery package, it signifies that when you "
+"wish to dispose of this product, manual, package or battery you must do "
+"so in an approved manner."
+msgstr ""
+
+#: ../../source/Important_notes.rst:75
+msgid ""
+"Do not discard this product, manual, package or battery along with "
+"ordinary household waste. Disposing in the correct manner will prevent "
+"harm to human health and potential damage to the environment."
+msgstr ""
+
+#: ../../source/Important_notes.rst:79
+msgid ""
+"Since the correct method of disposal will depend on the applicable laws "
+"and regulations in your locality, please contact your local "
+"administrative body for details. If the battery contains heavy metals in "
+"excess of the regulated amount, a chemical symbol is displayed below the "
+"“crossed-out wheeled bin” symbol on the battery or battery package."
+msgstr ""
+

@@ -1,0 +1,161 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Marcus Weseloh
+# This file is distributed under the same license as the MidiGurdy User
+# Manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 13:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/Troubleshooting.rst:2
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:4
+msgid ""
+"If the instrument does not work as expected, please try to identify the "
+"problem by following the instructions below. If your problem is not "
+"listed or cannot be solved with the given hints, please use the support "
+"forum at https://forum.midigurdy.com or contact us directly."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:11
+msgid ""
+"The instrument turns off for no apparent reason or sometimes doesn't "
+"start at all"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:13
+msgid ""
+"If you have a device plugged into the USB host port (maybe a USB stick or"
+" a USB-to-MIDI converter), remove the device and see if the problem "
+"persists."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:17
+msgid "**If you are powering the MidiGurdy only via the USB port:**"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:19
+msgid ""
+"Use a shorter USB cable and / or use a different USB port on the "
+"connected device."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:22
+msgid ""
+"If using a phone charger as power supply via USB, use a different phone "
+"charger that can deliver more power."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:25
+msgid ""
+"Insert charged batteries into the instrument. The batteries can "
+"compensate for the current peaks if the connected device cannot supply "
+"enough current."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:28
+msgid "Connect the supplied power supply"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:31
+msgid "**If you are powering the MidiGurdy via the 5V power supply:**"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:33
+msgid "Check the polarity of the batteries"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:35
+msgid ""
+"Use a different power source, like USB or batteries. Maybe the power "
+"supply is faulty."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:38
+msgid "**If you are powering the MidiGurdy only via batteries:**"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:40
+msgid "Replace the batteries with new or freshly charged ones"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:45
+msgid "The instrument does not produce any sound when turning the crank"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:47
+msgid ""
+"Ensure that you have connected working headphones to the MidiGurdy "
+"headphone connector"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:50
+msgid "Make sure you have loaded a sound for at least one of the strings."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:52
+msgid ""
+"Check the :ref:`main volume <volume-menus>` and the :ref:`string volume "
+"<common-string-items>`"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:57
+msgid "My stereo headphones sound like they output two identical mono signals"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:59
+msgid ""
+"Turn the :ref:`balance of a sounding string <common-string-items>` to the"
+" far left or far right to check the stereo balance."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:62
+msgid ""
+"Ensure that you are using a TRS-style connector (a headphone plug with "
+"only three sections on the plug). TRRS-style connectors (with four "
+"sections, as found on many headsets and headphones with microphones or "
+"volume controls) might not work as expected."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:67
+msgid ""
+"If you are using a 3.5mm to 6.3mm adapter for your headphones, ensure "
+"that it is a stereo adapter and that it works as expected by testing it "
+"on another device."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:74
+msgid ""
+"I hear a lot of noise or humming when connecting the instrument to an "
+"external speaker or other sound device"
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:76
+msgid ""
+"Make sure you are using the supplied Y-cable and the breakout box to "
+"properly separate the MidiGurdy from the external device. See :ref"
+":`other-sound-equipment` on how to connect the MidiGurdy to external "
+"sound devices."
+msgstr ""
+
+#: ../../source/Troubleshooting.rst:81
+msgid ""
+"Check if the casing of the plug inserted into the headphone socket is "
+"made of metal and touches the front cover shielding the connectors. A "
+"connection between plug and front cover might lead to ground loops and a "
+"lot of noise in the output."
+msgstr ""
+
