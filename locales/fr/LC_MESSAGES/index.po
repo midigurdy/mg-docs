@@ -9,14 +9,15 @@ msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 19:53+0200\n"
-"PO-Revision-Date: 2019-09-21 17:36+0000\n"
+"PO-Revision-Date: 2019-09-21 22:01+0000\n"
 "Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
-"Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/index.rst:2
@@ -28,7 +29,6 @@ msgid "For firmware version |version|"
 msgstr "Pour la version du firmware |version|"
 
 #: ../../source/index.rst:9
-#, fuzzy
 msgid ""
 "This is the online user manual for the MidiGurdy - an electronic hurdy-"
 "gurdy. For more information about the instrument, please visit "
@@ -36,7 +36,7 @@ msgid ""
 msgstr ""
 "Ceci est le manuel d'utilisation en ligne de la MidiGurdy - une vielle à "
 "roue électronique. Pour plus d'informations sur l'instrument, veuillez "
-"consulter le site http://www.midigurdy.com."
+"consulter le site https://www.midigurdy.com."
 
 #: ../../source/index.rst:14
 msgid "Other formats"
@@ -52,15 +52,15 @@ msgstr ""
 
 #: ../../source/index.rst:18
 msgid "`Single HTML page <../singlehtml/index.html>`_"
-msgstr "`Une seule page HTML <.../singlehtml/index.html>`_"
+msgstr "`Une seule page HTML <../singlehtml/index.html>`_"
 
 #: ../../source/index.rst:19
 msgid "`Separate HTML pages <../html/index.html>`_"
-msgstr "`Pages HTML séparées <.../html/index.html>`_"
+msgstr "`Pages HTML séparées <../html/index.html>`_"
 
 #: ../../source/index.rst:20
 msgid "`Download PDF document <../download/midigurdy_manual.pdf>`_"
-msgstr "`Télécharger le document PDF <.../download/midigurdy_manual.pdf>`"
+msgstr "`Télécharger le document PDF <../download/midigurdy_manual.pdf>`_"
 
 #: ../../source/index.rst:21
 msgid "`Download eBook (EPUB) <../download/midigurdy_manual.epub>`_"
@@ -71,4 +71,3 @@ msgstr ""
 #: ../../source/index.rst:26
 msgid "Table of Contents"
 msgstr "Table des matières"
-
