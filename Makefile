@@ -31,6 +31,9 @@ release: html singlehtml latexpdf epub
 	ln -s ../html/_static $(RELEASEDIR)/singlehtml/_static
 	ln -s ../html/_images $(RELEASEDIR)/singlehtml/_images
 
+clean-all: clean
+	rm -rf $(RELEASEBASE)
+
 tiny-release: release
 	find $(RELEASEDIR)/ -wholename "**/fonts/**.ttf" -delete
 	find $(RELEASEDIR)/ -wholename "**/fonts/**.eot" -delete
