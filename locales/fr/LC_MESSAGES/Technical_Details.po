@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: 2019-09-22 13:07+0000\n"
+"PO-Revision-Date: 2019-09-23 15:02+0000\n"
 "Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -25,7 +25,6 @@ msgid "Technical Details"
 msgstr "Détails Techniques"
 
 #: ../../source/Technical_Details.rst:5
-#, fuzzy
 msgid "Dimensions"
 msgstr "Dimensions"
 
