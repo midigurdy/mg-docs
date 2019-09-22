@@ -61,7 +61,7 @@ msgstr ""
 "L'Écran d'Accueil représente l'information la plus importante concernant la "
 "configuration active de l'instrument. La MidiGurdy \"reviendra\" toujours "
 "sur cet écran après une certaine période d'inactivité de configuration (voir "
-"ref:`configuration-menu`)."
+":ref:`configuration-menu`)."
 
 #: ../../source/The_Menu_System.rst:26
 msgid ""

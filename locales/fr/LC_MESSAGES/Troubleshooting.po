@@ -186,10 +186,9 @@ msgid ""
 "sound devices."
 msgstr ""
 "Assurez vous que vous utilisez bien le câble en \"Y\" et la \"DI box\" "
-"fournis pour séparer correctement la MidiGurdy. du matériel externe.  "
-"Vérifiez que les connexions dans le casque soient métalliques et bien "
-"isolées. Une mauvaise isolation conduit à des boucles de masse et beaucoup "
-"de bruit à la sortie."
+"fournis pour séparer correctement la MidiGurdy du matériel externe.  "
+"Voir :ref:`other-sound-equipment` pour savoir comment connecter le "
+"MidiGurdy à des appareils de son externes."
 
 #: ../../source/Troubleshooting.rst:81
 msgid ""

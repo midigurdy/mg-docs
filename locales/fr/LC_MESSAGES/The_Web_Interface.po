@@ -54,7 +54,7 @@ msgid ""
 "As explained in :ref:`usb-connection`, please use a USB-A to USB-B cable "
 "to connect the MidiGurdy to your computer."
 msgstr ""
-"Comme expliqué dans la section :ref:`usb-connection`de données vers un "
+"Comme expliqué dans la section :ref:`usb-connection` de données vers un "
 "ordinateur ou une tablette par prise USB un câble USB-A / USB-B est "
 "nécessaire pour connecter la MidiGurdy à votre ordinateur."
 
