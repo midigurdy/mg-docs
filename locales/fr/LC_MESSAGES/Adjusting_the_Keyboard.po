@@ -4,23 +4,25 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-22 13:07+0000\n"
+"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/Adjusting_the_Keyboard.rst:2
 msgid "Adjusting the Keyboard"
-msgstr ""
+msgstr "Réglages du Clavier"
 
 #: ../../source/Adjusting_the_Keyboard.rst:4
 msgid ""
@@ -28,22 +30,26 @@ msgid ""
 "keyboard in order to match them to your liking or to recreate some of the"
 " playing feel of your acoustic hurdy-gurdy."
 msgstr ""
+"La MidiGurdy vous permet de régler quelques aspects mécaniques du clavier "
+"afin de les mettre à votre \"goût\", ou de recréer les mêmes sensations de "
+"jeu que ceux sur votre vielle à roue acoustique."
 
 #: ../../source/Adjusting_the_Keyboard.rst:8
 msgid "There are two properties you can change:"
-msgstr ""
+msgstr "Deux propriétés du clavier sont réglables :"
 
 #: ../../source/Adjusting_the_Keyboard.rst:10
 msgid "the tension of the string inside the tangent box"
-msgstr ""
+msgstr "la tension de la corde à l'intérieur du clavier"
 
 #: ../../source/Adjusting_the_Keyboard.rst:11
 msgid "the travel of the keys before hitting the string."
 msgstr ""
+"le trajet des touches avant qu'elles ne viennent en contact avec la corde."
 
 #: ../../source/Adjusting_the_Keyboard.rst:15
 msgid "Opening and closing the tangent box lid"
-msgstr ""
+msgstr "Ouvrir et fermer le couvercle du clavier"
 
 #: ../../source/Adjusting_the_Keyboard.rst:17
 msgid ""
@@ -53,20 +59,27 @@ msgid ""
 " the body via a small cable, so please make sure you don’t pull the lid "
 "away too far without unplugging the cable."
 msgstr ""
+"Ouvrir le couvercle du clavier en attrapant la partie qui dépasse, située "
+"vers le couvre-roue. Tirer ou pousser le couvercle vers le haut sans trop "
+"forcer afin de le séparer des aimants qui le maintiennent en place.  Le "
+"couvercle est connecté au corps de la MidiGurdy. par un petit câble, "
+"attention de ne pas débrancher ce dernier lors d'une ouverture trop brusque."
 
 #: ../../source/Adjusting_the_Keyboard.rst:23
 msgid ""
 "Once you've made your adjustments, replace the lid and the magnets should"
 " make it snap into place."
 msgstr ""
+"Une fois les réglages terminés, remettre le couvercle en position, les "
+"aimants devraient produire un claquement typique quand il reprend sa place."
 
 #: ../../source/Adjusting_the_Keyboard.rst:27
 msgid "Changing the string tension"
-msgstr ""
+msgstr "Changer la tension de corde"
 
 #: ../../source/Adjusting_the_Keyboard.rst:33
 msgid "Location of the string tension tuner"
-msgstr ""
+msgstr "Localisation du syntoniseur de tension de corde"
 
 #: ../../source/Adjusting_the_Keyboard.rst:35
 msgid ""
@@ -74,10 +87,13 @@ msgid ""
 " instrument. Turn the knob on the tuner clockwise to increase the string "
 "tension or anti-clockwise to decrease the tension."
 msgstr ""
+"Dans la boîtier il y a le syntoniseur de l'instrument près de la \"tête\" de "
+"celui-ci. Tourner le bouton sur le syntoniseur vers la droite pour augmenter "
+"la tension de corde ou vers la gauche pour la diminuer."
 
 #: ../../source/Adjusting_the_Keyboard.rst:39
 msgid "Always make small adjustments"
-msgstr ""
+msgstr "Toujours procéder par de petits ajustements"
 
 #: ../../source/Adjusting_the_Keyboard.rst:42
 msgid ""
@@ -85,26 +101,33 @@ msgid ""
 " playing feel has changed to your liking. Increasing the tension too much"
 " might damage the instrument!"
 msgstr ""
+"Toujours procéder par de petits ajustements et contrôler au fur et à mesure "
+"que la sensation de jeu vous convienne. Une trop grande tension de corde "
+"pourrait endommager l'instrument !"
 
 #: ../../source/Adjusting_the_Keyboard.rst:48
 msgid "Changing the key travel"
-msgstr ""
+msgstr "Changer la course des touches"
 
 #: ../../source/Adjusting_the_Keyboard.rst:54
 msgid "Location of the key sensor screws"
-msgstr ""
+msgstr "Emplacement des vis du capteur de clé"
 
 #: ../../source/Adjusting_the_Keyboard.rst:56
 msgid ""
 "The key travel can be adjusted for each individual key by changing the "
 "position of the key sensor."
 msgstr ""
+"La course de chaque touche peut être réglée individuellement en changeant la "
+"position du capteur de touche."
 
 #: ../../source/Adjusting_the_Keyboard.rst:58
 msgid ""
 "Use a small Phillips screwdriver to loosen the screw holding the sensor "
 "in place a little bit."
 msgstr ""
+"Utiliser un petit tournevis Phillips pour dévisser légèrement la vis qui "
+"maintient le capteur."
 
 #: ../../source/Adjusting_the_Keyboard.rst:61
 msgid ""
@@ -113,16 +136,22 @@ msgid ""
 "time. Pressing down on the screw or lifting it with a fingernail might "
 "help to get it to move more freely."
 msgstr ""
+"Utiliser le tournevis pour déplacer la vis et le capteur de touche "
+"correspondant en avant ou en arrière.  Il ne faut par forcer pour les "
+"déplacer la première fois. Appuyer sur la vis ou la soulever à l'aide d'un "
+"ongle devrait faciliter ces mouvements."
 
 #: ../../source/Adjusting_the_Keyboard.rst:66
 msgid ""
 "Once you have positioned the key sensor, tighten the screw again, but "
 "only very lightly."
 msgstr ""
+"Une fois le capteur en bonne position, il suffit de revisser, mais toujours "
+"avec délicatesse."
 
 #: ../../source/Adjusting_the_Keyboard.rst:69
 msgid "Only loosen the screws"
-msgstr ""
+msgstr "Simplement desserrer les vis"
 
 #: ../../source/Adjusting_the_Keyboard.rst:72
 msgid ""
@@ -130,10 +159,13 @@ msgid ""
 "unscrew it all the way, otherwise the key sensor might drop away from the"
 " key, making it very difficult to get it back into place!"
 msgstr ""
+"Il faut très légèrement dévisser le capteur, jusqu'à ce qu'il bouge un peu. "
+"Attention de ne pas complètement le dévisser, la vis pourrait sortir de la "
+"touche, et ce serait une galère pour la remettre en place !"
 
 #: ../../source/Adjusting_the_Keyboard.rst:77
 msgid "Do not tighten with a lot of force"
-msgstr ""
+msgstr "Ne pas revisser avec force"
 
 #: ../../source/Adjusting_the_Keyboard.rst:80
 msgid ""
@@ -142,10 +174,14 @@ msgid ""
 "screw, reducing the force you can apply to the screw.  The key sensor "
 "will hold in place even when the screw is not very tightly secured!"
 msgstr ""
+"Toujours resserrer les vis avec délicatesse. Dans l'idéal il faudrait "
+"utiliser un tournevis à manche fin, ce qui réduirait la force appliquée sur "
+"la vis. Le capteur de touche restera en place même si la vis n'est pas "
+"fermement resserrée !"
 
 #: ../../source/Adjusting_the_Keyboard.rst:86
 msgid "Recalibration"
-msgstr ""
+msgstr "Recalibrage"
 
 #: ../../source/Adjusting_the_Keyboard.rst:88
 msgid ""
@@ -154,6 +190,10 @@ msgid ""
 "string tension or a significant change in key travel might make it "
 "necessary to recalibrate the keyboard sensors."
 msgstr ""
+"Les capteurs de touche sont très sensibles à la force appliquée quand il "
+"sont pressés sur la corde.  Cela signifie que des changements importants "
+"affectant la tension de corde ou la course des touches rend nécessaire un "
+"recalibrage des capteurs de touches."
 
 #: ../../source/Adjusting_the_Keyboard.rst:93
 msgid ""
@@ -161,4 +201,6 @@ msgid ""
 "to access the Web-Interface. Then choose the recalibration function from "
 "the Advanced menu."
 msgstr ""
-
+"Pour recalibrer le clavier, merci de connecter la MidiGurdy. à un ordinateur "
+"pour accéder à l'Interface Web.  Puis choisir la fonction \"recalibrage\" "
+"(recalibration) dans le Menu Avancé (Advanced Menu)."
