@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: 2019-09-21 22:01+0000\n"
+"PO-Revision-Date: 2019-09-22 13:07+0000\n"
 "Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -232,7 +232,7 @@ msgid ""
 " arranged in three groups:"
 msgstr ""
 "Les deux boutons noirs sur le couvercle sont nommés \"boutons de Groupe\".  "
-"La MidiGurdy a un total de neuf \"cordes\" réunies en trois groupe:"
+"La MidiGurdy a un total de neuf \"cordes\" réunies en trois groupe :"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:115
 msgid "Group 1 – Drone 1, Melody 1, Trompette 1 (activated by default)"
@@ -406,11 +406,11 @@ msgid ""
 "  As the name suggests, this button is used for multiple purposes:"
 msgstr ""
 "Le bouton **D4** (le plus à droite) est aussi nommé bouton \"Energie / "
-"Réglages\". Comme son nom l'indique, il a plusieurs fonctions:"
+"Réglages\". Comme son nom l'indique, il a plusieurs fonctions :"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:193
 msgid "Switching the MidiGurdy on and off:"
-msgstr "Bouton de mise sous tension de la MidiGurdy:"
+msgstr "Bouton de mise sous tension de la MidiGurdy :"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:195
 msgid "Hold this button for about 1 second to switch the instrument on"
