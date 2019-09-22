@@ -9,6 +9,7 @@ BUILDDIR      = build
 VERSION       = $(shell cat VERSION)
 DOCLANG       = en
 RELEASEDIR    = release/$(DOCLANG)
+RELEASEBASE   = release
 PUBLISH_TO    = weseloh.cc:/var/www/midigurdy.com/htdocs/manual-$(VERSION)/
 
 
@@ -36,8 +37,8 @@ tiny-release: release
 	find $(RELEASEDIR)/ -wholename "**/fonts/**.svg" -delete
 	find $(RELEASEDIR)/ -wholename "**/fonts/**.woff2" -delete
 
-publish: release
-	rsync $(RELEASEDIR)/ $(PUBLISH_TO) -arcv
+publish:
+	rsync $(RELEASEBASE)/ $(PUBLISH_TO) -arcv
 
 
 .PHONY: help Makefile release publish
