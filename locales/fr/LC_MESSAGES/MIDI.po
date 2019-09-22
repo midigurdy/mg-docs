@@ -4,23 +4,25 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-22 13:07+0000\n"
+"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/MIDI.rst:4
 msgid "MIDI with the MidiGurdy"
-msgstr ""
+msgstr "MIDI avec la MidiGurdy"
 
 #: ../../source/MIDI.rst:6
 msgid ""
@@ -28,10 +30,13 @@ msgid ""
 "MIDI controller, for example to control external synthesizers or use the "
 "instrument to input notes in a music notation editor."
 msgstr ""
+"Avec la sortie MIDI USB, vous pouvez utiliser la MidiGurdy comme contrôleur "
+"MIDI, par exemple pour contrôler des synthétiseurs externes ou utiliser "
+"l'instrument pour entrer des notes dans un éditeur de notation musicale."
 
 #: ../../source/MIDI.rst:11
 msgid "Connecting to MIDI devices"
-msgstr ""
+msgstr "Connexion à des périphériques MIDI"
 
 #: ../../source/MIDI.rst:13
 msgid ""
@@ -39,10 +44,12 @@ msgid ""
 "device. There are a number of different ways on how you can make this "
 "connection."
 msgstr ""
+"Pour utiliser cette fonction, vous devez d'abord connecter le MidiGurdy à un "
+"autre appareil. Il y a plusieurs façons d'établir ce lien."
 
 #: ../../source/MIDI.rst:18
 msgid "USB MIDI to Computer or Tablet"
-msgstr ""
+msgstr "USB MIDI vers ordinateur ou tablette"
 
 #: ../../source/MIDI.rst:20
 msgid ""
@@ -53,22 +60,33 @@ msgid ""
 " So use a USB-A to   USB-B cable, attach the USB-A plug into your "
 "computer and the (square) USB-B   plug into the MidiGurdy."
 msgstr ""
+"Si vous voulez utiliser le MidiGurdy comme périphérique d'entrée pour écrire "
+"des notations musicales, si vous voulez qu'il contrôle un synthétiseur "
+"logiciel ou un autre logiciel musical fonctionnant sur votre ordinateur, "
+"vous pouvez simplement connecter votre instrument à votre ordinateur comme "
+"si vous voulez accéder à l'interface web. Utilisez donc un câble USB-A à USB-"
+"B, branchez la prise USB-A dans votre ordinateur et la prise USB-B (carrée) "
+"dans la MidiGurdy."
 
 #: ../../source/MIDI.rst:27
 msgid ""
 "Depending on your operating system, you might need to open up the Sound "
 "or MIDI device preferences."
 msgstr ""
+"Selon votre système, vous devrez peut-être ouvrir les préférences du "
+"périphérique Sound ou MIDI."
 
 #: ../../source/MIDI.rst:30
 msgid "Android MIDI"
-msgstr ""
+msgstr "Android MIDI"
 
 #: ../../source/MIDI.rst:32
 msgid ""
 "Unlike the web-interface, the MIDI function should work on Android as "
 "well!"
 msgstr ""
+"Contrairement à l'interface web, la fonction MIDI devrait également "
+"fonctionner sur Android !"
 
 #: ../../source/MIDI.rst:34
 msgid ""
@@ -76,36 +94,48 @@ msgid ""
 "plug it in, but it does not send any MIDI messages until you enable the "
 "connection on the instrument as follows:"
 msgstr ""
+"Le MidiGurdy s'enregistre en tant que périphérique MIDI sur votre ordinateur "
+"dès que vous le branchez, mais il n'envoie aucun message MIDI tant que vous "
+"n'avez pas activé la connexion sur l'instrument comme suit :"
 
 #: ../../source/MIDI.rst:38
 msgid "Press D4 twice to go to the Configuration menu"
-msgstr ""
+msgstr "Appuyez deux fois sur D4 pour accéder au menu Configuration"
 
 #: ../../source/MIDI.rst:39
 msgid "Turn the rotary knob to scroll down to the \"MIDI...\" entry"
 msgstr ""
+"Tournez le bouton rotatif pour faire défiler vers le bas jusqu'à l'entrée \""
+"MIDI...\""
 
 #: ../../source/MIDI.rst:40
 msgid "Press the rotary knob to open the list of MIDI devices"
 msgstr ""
+"Appuyez sur le bouton rotatif pour ouvrir la liste des périphériques MIDI"
 
 #: ../../source/MIDI.rst:41
 msgid ""
 "You will see only one entry: \"Main Midi...\". Select it by pressing the "
 "rotary knob"
 msgstr ""
+"Vous ne verrez qu'une seule entrée : \"Main Midi...\". Sélectionnez-le en "
+"appuyant sur le bouton rotatif"
 
 #: ../../source/MIDI.rst:43
 msgid ""
 "Turn the rotary knob to scroll down to \"Output\" and press the rotary "
 "knob to active the option"
 msgstr ""
+"Tournez le bouton rotatif pour faire défiler vers le bas jusqu'à \"Output\" "
+"et appuyez sur le bouton rotatif pour activer l'option"
 
 #: ../../source/MIDI.rst:45
 msgid ""
 "Turn the rotary knob to switch between the options \"Off\", \"On\" and "
 "\"Auto-On\""
 msgstr ""
+"Tournez le bouton rotatif pour commuter entre les options \"Off\", \"On\" et "
+"\"Auto-On\""
 
 #: ../../source/MIDI.rst:48
 msgid ""
@@ -113,6 +143,9 @@ msgid ""
 "and best option if you don't use this feature, to conserve processing "
 "power and battery consumption)."
 msgstr ""
+"**Off** signifie que le MidiGurdy n'envoie aucun message MIDI (la meilleure "
+"option par défaut si vous n'utilisez pas cette fonction, pour économiser la "
+"puissance de traitement et la consommation de batterie)."
 
 #: ../../source/MIDI.rst:52
 msgid ""
@@ -120,6 +153,9 @@ msgid ""
 "connection. If you disconnect the USB cable and plug it back in, you will"
 " need to manually enable it again to send MIDI messages."
 msgstr ""
+"**On** signifie que le MidiGurdy enverra des messages MIDI via cette "
+"connexion. Si vous débranchez le câble USB et le rebranchez, vous devrez "
+"l'activer manuellement pour envoyer des messages MIDI."
 
 #: ../../source/MIDI.rst:56
 msgid ""
@@ -127,16 +163,21 @@ msgid ""
 "if you disconnect the USB cable and plug it back in, the connection will "
 "automatically be enabled again."
 msgstr ""
+"**Auto-On** signifie que la connexion est activée (des messages MIDI sont "
+"envoyés) et si vous débranchez le câble USB et le rebranchez, la connexion "
+"sera automatiquement réactivée."
 
 #: ../../source/MIDI.rst:60
 msgid ""
 "So as soon as the \"Output\" value is **On** or **Auto-On**, the "
 "MidiGurdy will start sending MIDI messages to your computer."
 msgstr ""
+"Ainsi, dès que la valeur \"Output\" est **On** ou **Auto-On**, le MidiGurdy "
+"commence à envoyer des messages MIDI à votre ordinateur."
 
 #: ../../source/MIDI.rst:64
 msgid "USB MIDI to another USB MIDI device"
-msgstr ""
+msgstr "USB MIDI vers un autre périphérique USB MIDI"
 
 #: ../../source/MIDI.rst:66
 msgid ""
@@ -145,6 +186,10 @@ msgid ""
 "similar), you can use the same USB-A to USB-B cable that you use for the "
 "connection to a computer."
 msgstr ""
+"Si vous souhaitez utiliser la MidiGurdy pour contrôler un autre périphérique "
+"MIDI doté d'un port MIDI USB (comme un synthétiseur plus moderne, un "
+"expandeur MIDI ou similaire), vous pouvez utiliser le même câble USB-A vers "
+"USB-B que vous utilisez pour la connexion à un ordinateur."
 
 #: ../../source/MIDI.rst:71
 msgid ""
@@ -152,6 +197,9 @@ msgid ""
 "to your external MIDI device and plug in the USB-A plug into the vertical"
 " USB-A port on the MidiGurdy."
 msgstr ""
+"Mais la façon dont vous utilisez le câble est différente : branchez la fiche "
+"USB-B carrée à votre appareil MIDI externe et branchez la fiche USB-A dans "
+"le port USB-A vertical de la MidiGurdy."
 
 #: ../../source/MIDI.rst:75
 msgid ""
@@ -162,10 +210,17 @@ msgid ""
 "pressing the rotary knob, scroll down to \"Output\" and set it to \"On\" "
 "or \"Auto-On\"."
 msgstr ""
+"Ouvrez la configuration MIDI sur la MidiGurdy (appuyez deux fois sur D4, "
+"faites défiler jusqu'à \"MIDI...\") et vous devriez voir une nouvelle entrée "
+"dans la liste. Le nom de cette entrée dépend de la façon dont votre "
+"périphérique MIDI externe s'enregistre lui-même. Comme pour la méthode de "
+"connexion précédente, sélectionnez la connexion MIDI en appuyant sur le "
+"bouton rotatif, faites défiler jusqu'à \"Output\" et réglez-la sur \"On\" ou "
+"\"Auto-On\"."
 
 #: ../../source/MIDI.rst:82
 msgid "Connecting to an old-style (5-pin) MIDI device"
-msgstr ""
+msgstr "Connexion à un périphérique MIDI de type ancien (5 broches)"
 
 #: ../../source/MIDI.rst:84
 msgid ""
@@ -175,12 +230,20 @@ msgid ""
 "Any cable that requires no additional drivers for Windows will work fine "
 "with the MidiGurdy."
 msgstr ""
+"Si vous voulez contrôler un appareil avec l'ancien connecteur MIDI à 5 "
+"broches, vous aurez besoin d'un câble adaptateur MIDI USB vers 5 broches. "
+"Ces câbles adaptateurs peuvent être achetés dans de nombreux endroits, "
+"beaucoup à des prix très abordables (quelques euros). Tout câble qui ne "
+"nécessite aucun pilote supplémentaire pour Windows fonctionnera parfaitement "
+"avec le MidiGurdy."
 
 #: ../../source/MIDI.rst:90
 msgid ""
 "If you have a USB to 5-pin MIDI adapter available, connect its USB-A plug"
 " to the vertical USB-A port on the MidiGurdy."
 msgstr ""
+"Si vous disposez d'un adaptateur MIDI USB vers 5 broches, branchez sa prise "
+"USB-A sur le port USB-A vertical du MidiGurdy."
 
 #: ../../source/MIDI.rst:93
 msgid ""
@@ -191,32 +254,41 @@ msgid ""
 "connection methods, select the MIDI connection by pressing the rotary "
 "knob, scroll down to \"Output\" and set it to **On** or **Auto-On**."
 msgstr ""
+"Ouvrez la configuration MIDI sur la MidiGurdy (appuyez deux fois sur D4, "
+"faites défiler jusqu'à \"MIDI...\") et vous devriez voir une nouvelle entrée "
+"dans la liste. Le nom de cette entrée dépend de la façon dont votre câble "
+"adaptateur s'appelle. Souvent, il s'agit de quelque chose comme \"Câble MIDI "
+"#1\" ou similaire. Comme pour les méthodes de connexion précédentes, "
+"sélectionnez la connexion MIDI en appuyant sur le bouton rotatif, faites "
+"défiler jusqu'à \"Output\" et réglez-la sur **On** ou **Auto-On**."
 
 #: ../../source/MIDI.rst:102
 msgid "MIDI messages sent by the MidiGurdy"
-msgstr ""
+msgstr "Messages MIDI envoyés par la MidiGurdy"
 
 #: ../../source/MIDI.rst:104
 msgid ""
 "The MidiGurdy outputs MIDI messages on three separate MIDI channels, one "
 "for each string type.  By default, the following MIDI channels are used:"
 msgstr ""
+"La MidiGurdy émet des messages MIDI sur trois canaux MIDI distincts, un pour "
+"chaque type de corde.  Par défaut, les canaux MIDI suivants sont utilisés :"
 
 #: ../../source/MIDI.rst:107
 msgid "Melody: MIDI channel 1"
-msgstr ""
+msgstr "Chanterelle: Canal MIDI 1"
 
 #: ../../source/MIDI.rst:108
 msgid "Trompette: MIDI channel 2"
-msgstr ""
+msgstr "Trompette : Canal MIDI 2"
 
 #: ../../source/MIDI.rst:109
 msgid "Drone: MIDI channel 3"
-msgstr ""
+msgstr "Bourdon : Canal MIDI 3"
 
 #: ../../source/MIDI.rst:111
 msgid "Which strings output via MIDI"
-msgstr ""
+msgstr "Quelles cordes sortent via MIDI"
 
 #: ../../source/MIDI.rst:113
 msgid ""
@@ -225,32 +297,42 @@ msgid ""
 "And only the first string of each type actually outputs via MIDI, so only"
 " Melody 1, Drone 1 and Trompette 1"
 msgstr ""
+"**Important:** seules les cordes qui sont configurées (un son leur est "
+"assigné) et activées (le bouton LED vert est allumé) envoient réellement des "
+"messages MIDI. Et seule la première corde de chaque type sort en MIDI, donc "
+"seulement Melody 1, Drone 1 et Trompette 1"
 
 #: ../../source/MIDI.rst:120
 msgid "Melody String MIDI Messages"
-msgstr ""
+msgstr "Messages MIDI des cordes de chanterelle"
 
 #: ../../source/MIDI.rst:122
 msgid ""
 "Note On/Off, with a range of fixed velocities - sent in reaction to key "
 "presses and wheel start / stop"
 msgstr ""
+"Note On/Off, avec une gamme de vitesses fixes - envoyées en réaction à des "
+"pressions de touches et à la mise en marche/arrêt de la roue"
 
 #: ../../source/MIDI.rst:125 ../../source/MIDI.rst:143
 msgid ""
 "Expression Control (CC 11) - used for volume instead of Note-on velocity,"
 " controlled by the speed of the wheel"
 msgstr ""
+"Expression Control (CC 11) - est utilisé pour le volume au lieu de la "
+"vitesse de Note-on, contrôlée par la vitesse de la roue"
 
 #: ../../source/MIDI.rst:128
 msgid ""
 "Channel pitch bend - depends on the key pressure of the highest pressed "
 "key"
 msgstr ""
+"Channel pitch bend - dépend de la pression de touche de la touche la plus "
+"élevée appuyée"
 
 #: ../../source/MIDI.rst:130
 msgid "Keyboard Mode"
-msgstr ""
+msgstr "Mode clavier (Keyboard Mode)"
 
 #: ../../source/MIDI.rst:132
 msgid ""
@@ -260,50 +342,61 @@ msgid ""
 "keys. In this mode the MidiGurdy melody string behaves similar to a "
 "keyboard / piano."
 msgstr ""
+"**Note:** Si vous choisissez **Mode clavier** pour la chanterelle, aucun "
+"message d'expression n'est envoyé et la vitesse (volume) des messages Note "
+"On est déterminée par la vitesse / force avec laquelle vous appuyez sur les "
+"touches. Dans ce mode, la chanterelle de la MidiGurdy se comporte comme un "
+"clavier / piano."
 
 #: ../../source/MIDI.rst:139
 msgid "Drone String MIDI Messages"
-msgstr ""
+msgstr "Messages MIDI pour cordes de bourdons"
 
 #: ../../source/MIDI.rst:141
 msgid "Note on/off, with fixed velocity"
-msgstr ""
+msgstr "Note on/off, avec vitesse fixe"
 
 #: ../../source/MIDI.rst:148
 msgid "Trompette String MIDI Messages"
-msgstr ""
+msgstr "Messages MIDI des cordes de trompette"
 
 #: ../../source/MIDI.rst:150
 msgid "**In \"MidiGurdy\" mode:***"
-msgstr ""
+msgstr "**En mode \"MidiGurdy\":**"
 
 #: ../../source/MIDI.rst:152
 msgid "Note on/off, with fixed velocity - Note On as soon as you move the wheel"
-msgstr ""
+msgstr "Note on/off, à vitesse fixe - Note on dès que vous déplacez la roue"
 
 #: ../../source/MIDI.rst:154
 msgid "Expression (CC 11) - used for volume, controlled by the speed of the wheel"
 msgstr ""
+"Expression (CC 11) - utilisée pour le volume, contrôlée par la vitesse de la "
+"roue"
 
 #: ../../source/MIDI.rst:156
 msgid ""
 "Channel Pressure - controlled by the speed of the wheel above the chien "
 "sensitivity threshold"
 msgstr ""
+"Channel Pressure - contrôlée par la vitesse de la roue au-dessus du seuil de "
+"sensibilité du chien"
 
 #: ../../source/MIDI.rst:159
 msgid "**In \"Percussion\" mode:**"
-msgstr ""
+msgstr "**En mode \"Percussion\" :**"
 
 #: ../../source/MIDI.rst:161
 msgid ""
 "Note on/off - Note On only for a coup impulse, velocity is the speed of "
 "the initial impulse)"
 msgstr ""
+"Note on/off - Note on seulement pour une impulsion de coup, la vitesse est "
+"la vitesse de l'impulsion initiale)"
 
 #: ../../source/MIDI.rst:166
 msgid "MIDI Output Configuration"
-msgstr ""
+msgstr "Configuration de la sortie MIDI"
 
 #: ../../source/MIDI.rst:168
 msgid ""
@@ -311,18 +404,27 @@ msgid ""
 "will be automatically saved and recalled when you reconnect a MIDI device"
 " with the same name as before."
 msgstr ""
+"Il y a quelques réglages que vous pouvez modifier sur une sortie MIDI. Ces "
+"réglages seront automatiquement sauvegardés et rappelés lorsque vous "
+"reconnecterez un périphérique MIDI portant le même nom que précédemment."
 
 #: ../../source/MIDI.rst:172
 msgid "**Melody channel**: Determines the MIDI channel for the melody string."
 msgstr ""
+"**Melody channel** (Canal Mélodie) : Détermine le canal MIDI de la corde "
+"mélodique."
 
 #: ../../source/MIDI.rst:174
 msgid "**Drone channel**: Determines the MIDI channel for the drone string."
 msgstr ""
+"**Drone channel** (Canal Bourdon) : Détermine le canal MIDI de la corde du "
+"bourdon."
 
 #: ../../source/MIDI.rst:176
 msgid "**Trompette channel**: Determines the MIDI channel for the drone string."
 msgstr ""
+"**Trompette channel** (Canal de la trompette) : Détermine le canal MIDI de "
+"la corde du trompette."
 
 #: ../../source/MIDI.rst:178
 msgid ""
@@ -333,6 +435,13 @@ msgid ""
 "default of this setting is off, so no program change messages are being "
 "sent."
 msgstr ""
+"**Program Change** (Changement de programme) : Contrôle si les messages de "
+"changement de programme et de banque doivent être envoyés au périphérique "
+"MIDI externe. Si ce paramètre est activé, chaque fois que vous modifiez le "
+"son d'une chaîne de caractères envoie un message de changement de programme "
+"et de banque avec le numéro de banque et de programme du son sélectionné. La "
+"valeur par défaut de ce paramètre est désactivée, de sorte qu'aucun message "
+"de changement de programme n'est envoyé."
 
 #: ../../source/MIDI.rst:184
 msgid ""
@@ -344,6 +453,13 @@ msgid ""
 "resolution of the messages gets reduced and the latency of the messages "
 "is higher."
 msgstr ""
+"**Speed** (Vitesse) : Utilisez ce paramètre pour contrôler le nombre maximum "
+"de messages MIDI par seconde que le MidiGurdy envoie sur cette connexion. La "
+"valeur par défaut de \"Standard\" limite le nombre total de messages envoyés "
+"sur tous les canaux à moins de 1000 par seconde, ce qui est le maximum que "
+"la plupart des appareils MIDI standard peuvent supporter. L'inconvénient est "
+"que la résolution des messages est réduite et la latence des messages est "
+"plus élevée."
 
 #: ../../source/MIDI.rst:191
 msgid ""
@@ -352,6 +468,10 @@ msgid ""
 "This will limit the maximum number of messages per second to 2000. There "
 "will be much less latency and resolution loss."
 msgstr ""
+"Si vous vous connectez à un appareil MIDI plus puissant et capable de "
+"traiter plus de messages par seconde, vous pouvez essayer le réglage \"Fast\""
+". Cela limitera le nombre maximum de messages par seconde à 2000. Il y aura "
+"beaucoup moins de perte de latence et de résolution."
 
 #: ../../source/MIDI.rst:196
 msgid ""
@@ -360,4 +480,7 @@ msgid ""
 "modelling. Depending on your playing style, string modes and enabled "
 "strings, it can be as much as 5000 messages per second."
 msgstr ""
-
+"\"Illimité\" ne limite en aucun cas le nombre de messages, ils sont donc "
+"envoyés via MIDI au fur et à mesure qu'ils sont générés par les capteurs "
+"internes et la modélisation. Selon votre style de jeu, les modes de cordes "
+"et les cordes activées, il peut y avoir jusqu'à 5000 messages par seconde."
