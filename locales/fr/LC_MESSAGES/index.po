@@ -69,13 +69,15 @@ msgstr ""
 
 #: ../../source/index.rst:24
 msgid "Thank you!"
-msgstr ""
+msgstr "Merci !"
 
 #: ../../source/index.rst:26
 msgid ""
 "A big thank you to Phil Puygrenier for providing most of the initial "
 "french translation of this manual!"
 msgstr ""
+"Un grand merci à Phil Puygrenier d'avoir fourni la majeure partie de "
+"la traduction française initiale de ce manuel !"
 
 #: ../../source/index.rst:31
 msgid "Table of Contents"
