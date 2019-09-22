@@ -21,6 +21,11 @@ information about the instrument, please visit https://www.midigurdy.com.
         - `Download eBook (EPUB) <../download/midigurdy_manual.epub>`_
 
 
+.. admonition:: Thank you!
+
+    A big thank you to Phil Puygrenier for providing most of the initial french
+    translation of this manual!
+
 
 Table of Contents
 -----------------
