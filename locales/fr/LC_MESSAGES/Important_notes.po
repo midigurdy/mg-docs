@@ -4,55 +4,66 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-22 13:07+0000\n"
+"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/Important_notes.rst:2
 msgid "Important notes"
-msgstr ""
+msgstr "Notifications importantes"
 
 #: ../../source/Important_notes.rst:5
 msgid "Handling and maintenance"
-msgstr ""
+msgstr "Manipulation et maintenance"
 
 #: ../../source/Important_notes.rst:9
 msgid ""
 "Always grab the instrument by the body or the rear tangent box support. "
 "Never carry or lift the instrument by the keyboard or individual keys!"
 msgstr ""
+"Toujours saisir l'instrument par le corps ou la partie arrière du clavier. "
+"Ne jamais le\n"
+"transporter ou le soulever à l'aide du clavier ou des touches !"
 
 #: ../../source/Important_notes.rst:12
 msgid ""
 "Use a soft, dry cloth to clean the instrument, which may be slightly "
 "moistened if necessary."
 msgstr ""
+"Utiliser un chiffon doux et sec pour le nettoyer, qui peut être légèrement "
+"humide au besoin."
 
 #: ../../source/Important_notes.rst:14
 msgid ""
 "Never use petrol, thinner, alcohol or similar cleaning agents to avoid "
 "damaging or discolouring the surface of the instrument."
 msgstr ""
+"Ne jamais utiliser de pétrole, de diluant, d'alcool ou des agents nettoyants "
+"similaires pour éviter d'abimer ou de décolorer la surface de l'instrument."
 
 #: ../../source/Important_notes.rst:17
 msgid ""
 "All user-adjustable screws and controls should only ever be hand-"
 "tightened. Never tighten the screws or tuning knobs with great force."
 msgstr ""
+"Toutes les parties réglables par vis et leurs contrôles devront être faites "
+"de \"main sûre\". Ne jamais serrer les vis ou manipuler les boutons en force."
 
 #: ../../source/Important_notes.rst:22
 msgid "Precautions for batteries"
-msgstr ""
+msgstr "Batteries: précautions d’usage"
 
 #: ../../source/Important_notes.rst:24
 msgid ""
@@ -62,6 +73,11 @@ msgid ""
 "radiator. This could lead to leakage of battery fluid and shorten the "
 "battery life."
 msgstr ""
+"La température ambiante requises dépend de l'usure des batteries. Se référer "
+"à la documentation les concernant. Ne jamais utiliser ou conserver les "
+"batteries dans des endroits très chauds, i.e en plein soleil, dans un "
+"véhicule fermé ou près d'un radiateur. Ceci pourrait conduire à l'écoulement "
+"du fluide de la batterie et abréger sa durée de vie."
 
 #: ../../source/Important_notes.rst:29
 msgid ""
@@ -69,30 +85,40 @@ msgid ""
 "to moisture. This could lead to overheating or rusting on the battery and"
 " on the connections."
 msgstr ""
+"Garder les batteries au sec en vous assurant que leurs connexions ne soit "
+"jamais exposées à la moisissure. Ceci pourrait provoquer leur surchauffe ou "
+"leur oxydation, ainsi que celle des connexions."
 
 #: ../../source/Important_notes.rst:33
 msgid "Make sure that batteries are never within the reach of small children."
-msgstr ""
+msgstr "Tenir les batteries hors de portée des enfants."
 
 #: ../../source/Important_notes.rst:35
 msgid ""
 "Never hit the batteries or drop them. Strong shocks can lead to leakage "
 "of battery fluid, excessive heat generation, explosion or fire."
 msgstr ""
+"Ne jamais cogner ou faire tomber les batteries. un choc important pourrait "
+"les faire \"couler\", générer une chaleur excessive , une explosion ou un "
+"feu."
 
 #: ../../source/Important_notes.rst:40
 msgid "Further Precautions"
-msgstr ""
+msgstr "Précautions supplémentaires"
 
 #: ../../source/Important_notes.rst:42
 msgid ""
 "Handle the controls and connectors of the instrument with due care. "
 "Excessive handling can lead to damage."
 msgstr ""
+"Manipuler les contrôles et les connecteurs avec soin. Des manipulations "
+"inappropriées pourraient occasionner des dégâts."
 
 #: ../../source/Important_notes.rst:45
 msgid "Never press or hit the display or place heavy objects on it."
 msgstr ""
+"Ne jamais presser ou heurter l’écran de contrôle, ni mettre des objets "
+"lourds dessus."
 
 #: ../../source/Important_notes.rst:47
 msgid ""
@@ -100,6 +126,9 @@ msgid ""
 "on the cables. This will prevent any damage to the cables and the "
 "instrument."
 msgstr ""
+"En branchant ou débranchant les connexions, se servir des prises mais ne "
+"jamais tirer sur les câbles, pour éviter de les endommager ou d’endommager "
+"l’instrument."
 
 #: ../../source/Important_notes.rst:52
 msgid ""
@@ -107,6 +136,9 @@ msgid ""
 "base plate, the instrument must be disconnected from all power sources "
 "(power supply, USB connection, battery)."
 msgstr ""
+"Seul un expert peut intervenir sur l’instrument. Avant toute intervention il "
+"doit être déconnecté de toute source électrique (transformateur, connexion "
+"USB, batteries)."
 
 #: ../../source/Important_notes.rst:58
 msgid ""
@@ -114,10 +146,15 @@ msgid ""
 "power connector.  And only connect the 5V power supply to a suitable "
 "power outlet. Never plug it into an outlet of another voltage."
 msgstr ""
+"Utiliser uniquement l’adaptateur original 5 V (fourni) pour mettre l’"
+"instrument sous tension via la\n"
+"prise correspondant. Brancher le transformateur 5V uniquement sur une prise "
+"délivrant une tension appropriée et jamais sur une prise d’un voltage "
+"différent."
 
 #: ../../source/Important_notes.rst:64
 msgid "Notice regarding disposal (EU only)"
-msgstr ""
+msgstr "Mise au rebut (U.E. uniquement)"
 
 #: ../../source/Important_notes.rst:70
 msgid ""
@@ -126,6 +163,10 @@ msgid ""
 "wish to dispose of this product, manual, package or battery you must do "
 "so in an approved manner."
 msgstr ""
+"Le symbole d’un container barré apposé sur un produit, un manuel d’"
+"utilisateur, une batterie ou emballage de batterie signifie que quand vous "
+"souhaitez mettre au rebut ce produit, vous devez le faire conformément aux "
+"dispositions en vigueur."
 
 #: ../../source/Important_notes.rst:75
 msgid ""
@@ -133,6 +174,10 @@ msgid ""
 "ordinary household waste. Disposing in the correct manner will prevent "
 "harm to human health and potential damage to the environment."
 msgstr ""
+"Ne jetez pas ce produit, manuel d’utilisateur, emballage ou batterie dans "
+"les poubelles ordinaires. Mettre au rebut de la façon appropriée préviendra "
+"de la nocivité pour la santé humaine ainsi que de potentiels dommages pour "
+"l’environnement."
 
 #: ../../source/Important_notes.rst:79
 msgid ""
@@ -142,4 +187,8 @@ msgid ""
 "excess of the regulated amount, a chemical symbol is displayed below the "
 "“crossed-out wheeled bin” symbol on the battery or battery package."
 msgstr ""
-
+"Puisque la mise au rebut adéquat dépend des lois et règlements en vigueur "
+"dans votre pays, merci de contacter votre administration locale pour les "
+"détails. Quand la batterie contient des métaux lourds en excès par rapport à "
+"la dose autorisée, un symbole chimique sous le symbole du container barré "
+"est apposé sur la batterie ou son emballage."
