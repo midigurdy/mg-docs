@@ -73,6 +73,28 @@
     {%- endif %}
   {%- endblock %}
   {%- block extrahead %} {% endblock %}
+
+  <style type="text/css">
+      .languages {
+          margin-top: -0.5em;
+          margin-bottom: 0.5em;
+          text-align: center;
+      }
+      .languages a {
+          color: white;
+          padding: 0 0.5em;
+          display: inline-block;
+          line-height: 2em;
+      }
+      .languages a img {
+          border-radius: 0;
+          margin: auto;
+          width: auto;
+          height: 2em;
+          display: inline-block;
+          vertical-align: middle;
+      }
+  </style>
 </head>
 
 <body class="wy-body-for-nav">
@@ -110,6 +132,11 @@
               </div>
             {% endif %}
           {% endif %}
+
+          <div class="languages">
+              <a href="../../fr/html/index.html"><img src="{{ pathto('_static/img/french.svg', 1) }}" alt="Version Français"/> Français</a>
+              <a href="../../en/html/index.html"><img src="{{ pathto('_static/img/english.svg', 1) }}" alt="English Version"/>English</a>
+          </div>
 
           {% include "searchbox.html" %}
 
