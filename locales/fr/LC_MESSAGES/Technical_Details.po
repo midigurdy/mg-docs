@@ -4,149 +4,152 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-22 13:07+0000\n"
+"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/Technical_Details.rst:2
 msgid "Technical Details"
-msgstr ""
+msgstr "Détails Techniques"
 
 #: ../../source/Technical_Details.rst:5
+#, fuzzy
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensions"
 
 #: ../../source/Technical_Details.rst:10
 msgid "Weight"
-msgstr ""
+msgstr "Poids de l'appareil"
 
 #: ../../source/Technical_Details.rst:11
 msgid "2.7 kg (without batteries)"
-msgstr ""
+msgstr "2,7 kg (sans piles)"
 
 #: ../../source/Technical_Details.rst:12
 msgid "Physical dimensions"
-msgstr ""
+msgstr "Dimensions"
 
 #: ../../source/Technical_Details.rst:13
 msgid "53 cm x 20 cm x 12,5 cm (Length x Width x Height, maximum values)"
 msgstr ""
+"53 cm x 20 cm x 12,5 cm (Longueur x Largeur x Hauteur, valeurs maximales)"
 
 #: ../../source/Technical_Details.rst:14
 msgid "Crank thread"
-msgstr ""
+msgstr "Fil de manivelle"
 
 #: ../../source/Technical_Details.rst:15
 msgid "M6"
-msgstr ""
+msgstr "M6"
 
 #: ../../source/Technical_Details.rst:18
 msgid "Processor"
-msgstr ""
+msgstr "Processeur"
 
 #: ../../source/Technical_Details.rst:23
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: ../../source/Technical_Details.rst:24
 msgid "Dual-Core Coretex-A7 ARM CPU"
-msgstr ""
+msgstr "Dual-Core Coretex-A7 ARM CPU"
 
 #: ../../source/Technical_Details.rst:25
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: ../../source/Technical_Details.rst:26
 msgid "1 GB"
-msgstr ""
+msgstr "1 GB"
 
 #: ../../source/Technical_Details.rst:27
 msgid "Operating System"
-msgstr ""
+msgstr "Système d'exploitation"
 
 #: ../../source/Technical_Details.rst:28
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../source/Technical_Details.rst:32
 msgid "Electrical Details"
-msgstr ""
+msgstr "Détails électriques"
 
 #: ../../source/Technical_Details.rst:37
 msgid "Typical power consumption"
-msgstr ""
+msgstr "Consommation électrique typique"
 
 #: ../../source/Technical_Details.rst:38
 msgid "1 watt"
-msgstr ""
+msgstr "1 watt"
 
 #: ../../source/Technical_Details.rst:39
 msgid "Supply voltage"
-msgstr ""
+msgstr "Tension d'alimentation"
 
 #: ../../source/Technical_Details.rst:40
 msgid "5V DC with supplied power supply"
-msgstr ""
+msgstr "5V DC avec alimentation fournie"
 
 #: ../../source/Technical_Details.rst:41
 msgid "Battery supply"
-msgstr ""
+msgstr "Alimentation par piles"
 
 #: ../../source/Technical_Details.rst:42
 msgid "8x AA/R6/Mignon batteries"
-msgstr ""
+msgstr "8x piles AA/R6/Mignon"
 
 #: ../../source/Technical_Details.rst:43
 msgid "Audio Output"
-msgstr ""
+msgstr "Sortie audio"
 
 #: ../../source/Technical_Details.rst:44
 msgid "Stereo headphone amplifier"
-msgstr ""
+msgstr "Amplificateur de casque stéréo"
 
 #: ../../source/Technical_Details.rst:48
 msgid "Connectors"
-msgstr ""
+msgstr "Connecteurs"
 
 #: ../../source/Technical_Details.rst:53
 msgid "5V power supply plug"
-msgstr ""
+msgstr "Fiche d'alimentation 5V"
 
 #: ../../source/Technical_Details.rst:54
 msgid "2.1 x 5.5 x 9.5mm (center positive)"
-msgstr ""
+msgstr "2,1 x 5,5 x 9,5 mm (positif central)"
 
 #: ../../source/Technical_Details.rst:55
 msgid "Headphone jack"
-msgstr ""
+msgstr "Prise casque"
 
 #: ../../source/Technical_Details.rst:56
 msgid "6.3mm stereo (TRS – Tip, Ring, Sleeve)"
-msgstr ""
+msgstr "6.3mm stereo (TRS – Tip, Ring, Sleeve)"
 
 #: ../../source/Technical_Details.rst:57
 msgid "USB host"
-msgstr ""
+msgstr "USB host"
 
 #: ../../source/Technical_Details.rst:58
 msgid "USB-A"
-msgstr ""
+msgstr "USB-A"
 
 #: ../../source/Technical_Details.rst:59
 msgid "USB device"
-msgstr ""
+msgstr "USB device"
 
 #: ../../source/Technical_Details.rst:60
 msgid "USB-B"
-msgstr ""
-
+msgstr "USB-B"
