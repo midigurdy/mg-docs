@@ -4,29 +4,33 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2019-09-22 13:07+0000\n"
+"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/The_Menu_System.rst:4
 msgid "The Menu System"
-msgstr ""
+msgstr "Le Menu Système"
 
 #: ../../source/The_Menu_System.rst:6
 msgid ""
 "This section describes all menus and configuration items that are "
 "available on the MidiGurdy."
 msgstr ""
+"Cette section détaille tous les menus et les élément de configuration "
+"disponibles sur la MidiGurdy."
 
 #: ../../source/The_Menu_System.rst:9
 msgid ""
@@ -34,14 +38,18 @@ msgid ""
 "are only available via the Web Interface. Please see the :ref:`web-"
 "interface` on how to access and use it."
 msgstr ""
+"Nota-Bene : il y a des caractéristiques supplémentaires et des "
+"configurations avancées accessibles uniquement par l'Interface Web. Merci de "
+"consulter la section :ref:`web-interface` pour savoir comment y accéder et "
+"l'utiliser."
 
 #: ../../source/The_Menu_System.rst:14
 msgid "Home screen"
-msgstr ""
+msgstr "Écran d'accueil"
 
 #: ../../source/The_Menu_System.rst:20
 msgid "The home screen of the instrument menu"
-msgstr ""
+msgstr "Ecran d’accueil \"menu Instrument\""
 
 #: ../../source/The_Menu_System.rst:22
 msgid ""
@@ -50,6 +58,10 @@ msgid ""
 "screen after a configurable period of inactivity (see :ref"
 ":`configuration-menu`)."
 msgstr ""
+"L'Écran d'Accueil représente l'information la plus importante concernant la "
+"configuration active de l'instrument. La MidiGurdy \"reviendra\" toujours "
+"sur cet écran après une certaine période d'inactivité de configuration (voir "
+"ref:`configuration-menu`)."
 
 #: ../../source/The_Menu_System.rst:26
 msgid ""
@@ -62,6 +74,17 @@ msgid ""
 "shown with white text on black background. Each section contains the "
 "currently chosen note for that particular string."
 msgstr ""
+"La plus grande partie de l'affichage concerne la visualisation de **l'état "
+"d'activité et de l’accord des cordes**. De gauche à droite il y a les "
+"renseignements concernant le statut des Bourdons, des Chanterelles et des "
+"Trompettes. Chaque secteur est divisé en trois partie: Le cadre du haut "
+"symbolise la première corde de chaque genre (Bourdon, Chanterelle, Trompette)"
+", la seconde et la troisième corde étant respectivement représentées par le "
+"cadre en dessous, à gauche pour la seconde corde, et à droite pour la "
+"troisième. Les cordes jouables sont symbolisées par une lettre en noir sur "
+"un fond blanc, celles n'étant pas utilisées étant en \"vidéo inversée ("
+"lettre en blanc sur fond noir). Dans chaque cadre il y a l'indication de la "
+"note de base choisie pour une corde donnée."
 
 #: ../../source/The_Menu_System.rst:35
 msgid ""
@@ -74,6 +97,15 @@ msgid ""
 "you would have to open the respective String Setup Menu (see below) by "
 "pressing the buttons under the string label."
 msgstr ""
+"Par exemple, l'image ci-dessus montre qu'il y a quatre cordes actives: le "
+"premier et le second bourdons (Drone) la première chanterelle (Melody) et la "
+"deuxième trompette (Tromp). Les bourdons sont accordés en Ré (D), Ré (D) et "
+"Sol (G). Les chanterelles sont accordées en Sol (G). Les trompette sont "
+"accordées en Ré (D) Sol (G) et Sol (G).  Il faut noter que l'affichage sur "
+"l'écran ne montre pas à quel octave se situe l'accord. Pour être renseigné à "
+"ce propos il est nécessaire d'ouvrir pour chaque type de corde le \"Menu de "
+"Configuration des cordes\" (voir ci dessous) en appuyant sur les boutons "
+"sous le nom des cordes."
 
 #: ../../source/The_Menu_System.rst:43
 msgid ""
@@ -81,44 +113,52 @@ msgid ""
 "charge of the batteries as a small battery icon, as well as the currently"
 " active power source:"
 msgstr ""
+"Dans le coin supérieur droit la petite icone de batterie indique "
+"l'estimation de l'état électrique disponible :"
 
 #: ../../source/The_Menu_System.rst:47
 msgid "BAT – powered via batteries"
-msgstr ""
+msgstr "BAT - alimentation par piles, avec bilan de charge"
 
 #: ../../source/The_Menu_System.rst:48
 msgid "EXT – powered via 5V power supply"
-msgstr ""
+msgstr "EXT - alimentation par l'adaptateur 5V"
 
 #: ../../source/The_Menu_System.rst:49
 msgid "USB – powered via USB connection"
-msgstr ""
+msgstr "USB - alimentation au moyen du port USB"
 
 #: ../../source/The_Menu_System.rst:51
 msgid ""
 "The bottom right corner shows the number of the last loaded preset. See "
 "below for an explanation of the preset system."
 msgstr ""
+"Sous cette icone se trouve l'indication de la dernière présélection "
+"choisie.  Ci-après l'explication du système de présélection."
 
 #: ../../source/The_Menu_System.rst:54
 msgid "**Available controls on the home screen:**"
-msgstr ""
+msgstr "**Contrôles disponibles à partir de l'Ecran d'accueil:**"
 
 #: ../../source/The_Menu_System.rst:56
 msgid ""
 "Turn the rotary knob **ROT** left or right to open the Chien Sensitivity "
 "menu"
 msgstr ""
+"Tourner le bouton rotatif **ROT** à droite ou à gauche pour accéder au "
+"réglage de la sensibilité du Chien (Trompette)"
 
 #: ../../source/The_Menu_System.rst:59
 msgid ""
 "Press the rotary knob **ROT** to cycle through the volume menus for Main "
 "Volume, Reverb Volume and Key Volume."
 msgstr ""
+"Appuyer sur le bouton rotatif **ROT** pour naviguer dans les menus de volume:"
+" Volume principal, Volume de Réverbération et Volume des Touches."
 
 #: ../../source/The_Menu_System.rst:64
 msgid "Chien Sensitivity"
-msgstr ""
+msgstr "Sensibilité du Chien"
 
 #: ../../source/The_Menu_System.rst:70
 msgid ""
@@ -128,16 +168,23 @@ msgid ""
 "MidiGurdy, you simply turn **ROT** left or right when you are on the Home"
 " Screen."
 msgstr ""
+"Certainement un des réglages les plus important que vous voudrez effectuer "
+"sur la MidiGurdy: la sensibilité du Chien. Sur une vielle acoustique il "
+"suffit de tendre ou détendre le tirant pour obtenir le grésillement désiré. "
+"Sur la MidiGurdy, à partir de l'écran d'accueil, il suffit de tourner **ROT**"
+" à droite ou à gauche pour affiner ce réglage."
 
 #: ../../source/The_Menu_System.rst:75
 msgid ""
 "Turn right to make the chien more sensitive (to start buzzing at lower "
 "cranking speeds), turn left to make it less sensitive."
 msgstr ""
+"En tournant le bouton rotatif à droite le Chien devient plus sensible (plus "
+"\"gras\") et inversement en le tournant vers la gauche."
 
 #: ../../source/The_Menu_System.rst:78
 msgid "Single or separate chien sensitivity"
-msgstr ""
+msgstr "Sensibilité d'un seul chien ou d'un chien à part"
 
 #: ../../source/The_Menu_System.rst:80
 msgid ""
@@ -147,10 +194,16 @@ msgid ""
 "interface by going to \"Advanced / Settings\" and enabling the option "
 "\"Separate chien sensitivities\" in the \"Features\" box."
 msgstr ""
+"Il faut noter que la sensibilité choisie affecte les trois trompettes de la "
+"même façon. Si vous souhaitez contrôler les trois sensibilités du chien "
+"séparément, veuillez activer cette fonction dans l'interface web en allant "
+"dans \"Advanced / Settings\" (Avancé / Paramètres) et en activant l'option \""
+"Separate chien sensitivitie\" (Séparer les sensibilités du chien) dans la "
+"case \"Features\" (Caractéristiques)."
 
 #: ../../source/The_Menu_System.rst:89
 msgid "Volume Menus"
-msgstr ""
+msgstr "Menus des Volumes"
 
 #: ../../source/The_Menu_System.rst:95
 msgid ""
@@ -158,6 +211,9 @@ msgid ""
 " Volume menu. Turn ROT left and right to decrease or increase the main "
 "volume of the instrument."
 msgstr ""
+"En appuyant sur le bouton rotatif ROT à partir de l'écran d'accueil, on "
+"accède au Menu Principal des Volume.  Tourner ROT à droite ou à gauche pour "
+"augmenter ou diminuer le Volume Principal de l'instrument."
 
 #: ../../source/The_Menu_System.rst:103
 msgid ""
@@ -165,20 +221,26 @@ msgid ""
 "right to decrease or increase the sympathetic string reverberation "
 "volume. d"
 msgstr ""
+"En appuyant à nouveau sur **ROT** on accède au Menu du Volume de la "
+"Réverbération. En tournant à droite ou à gauche on augmente ou on diminue le "
+"Volume de Réverbération des cordes sympathiques."
 
 #: ../../source/The_Menu_System.rst:111
 msgid ""
 "Press **ROT** again to reach the Key Volume menu, turn it left or right "
 "to decrease or increase the volume of the simulated mechanical key noise."
 msgstr ""
+"En appuyant à nouveau sur **ROT** on accède au Menu du Volume des touches. "
+"En tournant à droite ou à gauche on augmente ou on diminue le Volume simulé "
+"du bruit produit par les touches."
 
 #: ../../source/The_Menu_System.rst:114
 msgid "The **BACK** button will bring you back to the Home Screen."
-msgstr ""
+msgstr "Presser le bouton **BACK** renvoie à l'Écran d'Accueil."
 
 #: ../../source/The_Menu_System.rst:117
 msgid "String Menus"
-msgstr ""
+msgstr "Menus des Cordes"
 
 #: ../../source/The_Menu_System.rst:123
 msgid ""
@@ -187,6 +249,11 @@ msgid ""
 "pressing one of the first three buttons D1 D2 D3 under the display, "
 "labelled “Drone”, “Melody” and “Tromp” (for Trompette)."
 msgstr ""
+"Les Menus des Cordes sont utilisés pour changer la configuration de toutes "
+"les cordes, chanterelles, bourdons, et chiens de la MidiGurdy. Pour y "
+"accéder il faut appuyer sur l’un des trois premiers boutons D1 D2 D3 situés "
+"sous l'écran, chacun correspondant respectivement aux bourdons (Drone) aux "
+"chanterelles (Melody) et aux trompettes (Tromp)."
 
 #: ../../source/The_Menu_System.rst:128
 msgid ""
@@ -194,6 +261,9 @@ msgid ""
 "not shown above the buttons. Only if you see other labels above the "
 "buttons will their function be different."
 msgstr ""
+"Ces boutons ouvrent toujours le Menu des Cordes, même quand ces noms ne sont "
+"pas visibles au dessus des boutons. Leurs fonctions seront différentes "
+"uniquement si sont inscrits d'autres noms aux dessus de ces derniers."
 
 #: ../../source/The_Menu_System.rst:136
 msgid ""
@@ -202,6 +272,11 @@ msgid ""
 "of the screen. Press it again to choose the second string, and again to "
 "choose the third string."
 msgstr ""
+"En appuyant une fois sur un bouton de Menu de Corde, on accède aux réglages "
+"pour la première corde du type choisi (bourdons chanterelles ou chiens) "
+"comme indiqué sur la barre-icone à gauche de l'écran. Il suffit d'appuyer à "
+"nouveau sur le même bouton pour accéder la seconde corde, et une fois de "
+"plus pour les réglages concernant la troisième corde."
 
 #: ../../source/The_Menu_System.rst:141
 msgid ""
@@ -212,16 +287,25 @@ msgid ""
 " left bar).  The drone and trompette buttons work in exactly the same "
 "way."
 msgstr ""
+"Par exemple en appuyant sur **D2** une fois, \"M1\" est sélectionné dans la "
+"barre de gauche, signifiant qu'on est sur l'édition de la première "
+"chanterelle. En appuyant une seconde fois sur la même touche, on pourra "
+"éditer la seconde chanterelle, (\"M2\" sera sélectionnée dans la barre de "
+"gauche), et en appuyant encore une fois sur **D2** c'est la troisième "
+"chanterelle qui sera éditée (\"M3\" sélectionné dans la barre à gauche). C’"
+"est la même procédure pour les bourdons et les trompettes."
 
 #: ../../source/The_Menu_System.rst:150
 msgid "Common Menu Items"
-msgstr ""
+msgstr "Éléments Communs au Menus de Cordes"
 
 #: ../../source/The_Menu_System.rst:152
 msgid ""
 "All three string types – melody, drone and trompette – start with the "
 "same configuration items"
 msgstr ""
+"Les trois types de cordes (bourdons chanterelles ou chiens) sont configurées "
+"de la même façon au démarrage"
 
 #: ../../source/The_Menu_System.rst:155
 msgid ""
@@ -230,6 +314,10 @@ msgid ""
 "selected. Press the rotary knob on this item to choose a sound from the "
 "list of installed Soundfonts."
 msgstr ""
+"**Sound** (Son) – le premier item dans chaque \"Menu Corde\" montre le son "
+"sélectionné, ou \" No Sound...\" pas de son s'il n'y en a pas de "
+"sélectionné.  Appuyer sur le bouton rotatif pour choisir pour cet élément "
+"une sonorité dans la Banque de Sons installée (Soundfonts)."
 
 #: ../../source/The_Menu_System.rst:160
 msgid ""
@@ -239,6 +327,10 @@ msgid ""
 " you hear on the melody strings if you don’t press a key on the keyboard "
 "(the “open string” note)."
 msgstr ""
+"**Note** – sélectionner cette entrée pour choisir l’accord de la corde. La "
+"note choisie sera la seule note audible en tournant la manivelle (pour le "
+"bourdon ou la trompette) ou la note fondamentale des chanterelles si aucune "
+"touche n'est actionnée sur le clavier (note \"à vide\")."
 
 #: ../../source/The_Menu_System.rst:166
 msgid ""
@@ -247,22 +339,30 @@ msgid ""
 " to reduce the volume of drone and trompette to make the melody stand out"
 " more."
 msgstr ""
+"**Volume** – Le volume de la corde est un pourcentage du volume principal ("
+"Main Volume). Utilisez ce réglage pour ajuster la \"balance\" des trois "
+"catégories de cordes entre elles, par exemple pour réduire le volume du "
+"bourdons et de la trompette pour faire ressortir le son des chanterelles."
 
 #: ../../source/The_Menu_System.rst:170
 msgid ""
 "**Balance** – This setting controls where you hear this string in the "
 "stereo panorama (left / right)."
 msgstr ""
+"**Balance** – ce réglage contrôle le son quand il est restitué en "
+"stéréophonie (gauche-droite)."
 
 #: ../../source/The_Menu_System.rst:173
 msgid ""
 "**Fine Tune** – With this setting you change the fine tuning of the "
 "individual string in cent. 100 cent equal one semitone."
 msgstr ""
+"**Fine Tune** (Accord Fin) – par ce réglage on ajuste l’accordage fin de "
+"chaque corde par centième. 100 centièmes équivaut à un demi-ton."
 
 #: ../../source/The_Menu_System.rst:178
 msgid "Melody String Items"
-msgstr ""
+msgstr "Menu des Chanterelles (Melody String items)"
 
 #: ../../source/The_Menu_System.rst:180
 msgid ""
@@ -270,6 +370,9 @@ msgid ""
 "Menu contains a few additional items that are only relevant for melody "
 "strings:"
 msgstr ""
+"En plus des éléments communs aux trois types de cordes, le Menu des "
+"Chanterelles comporte quelques éléments (items) supplémentaires ne "
+"concernant que les chanterelles :"
 
 #: ../../source/The_Menu_System.rst:183
 msgid ""
@@ -278,6 +381,12 @@ msgid ""
 "melody strings. This setting allows you to simulate that setup on the "
 "MidiGurdy, separately for each melody string."
 msgstr ""
+"**Capo** – Certaines vielles acoustiques permettent au musicien de "
+"verrouiller l'une des touches (keys)\n"
+"basses du clavier, agissant ainsi comme un véritable capodastre sur toutes "
+"les chanterelles. Cette\n"
+"option vous permet de simuler ce capodastre, de façon indépendante sur "
+"chacune des trois."
 
 #: ../../source/The_Menu_System.rst:188
 msgid ""
@@ -286,12 +395,19 @@ msgid ""
 " two or more keys at the same time, you will hear all notes "
 "simultaneously instead of just the note of the highest key."
 msgstr ""
+"**Polyphonic** – Contrairement à la plupart des vielles acoustiques, il est "
+"possible de jouer sur les cordes mélodiques de façon polyphonique.. Cela "
+"signifie qu'en appuyant simultanément sur au moins deux touches (ou plus), "
+"vous entendrez en même temps toutes les notes jouées, et non pas seulement "
+"la plus haute comme sur un instrument acoustique."
 
 #: ../../source/The_Menu_System.rst:193
 msgid ""
 "**Mode** – This setting controls how the physical controls (keyboard and "
 "crank) affect the sound generation on this string:"
 msgstr ""
+"**Mode** – ce réglage contrôle l'influence du jeu physique (clavier et "
+"manivelle) dans la génération du son pour cette corde :"
 
 #: ../../source/The_Menu_System.rst:196
 msgid ""
@@ -301,6 +417,12 @@ msgid ""
 "Soundfonts (i.e. Soundfonts which were not specifically created for the "
 "MidiGurdy)."
 msgstr ""
+"\"Hurdy-Gurdy\" (Vielle à Roue): ce mode simule une vielle à roue "
+"acoustique. Les cordes émettront un son seulement quand la manivelle sera "
+"actionnée et le clavier réagira comme celui d'une vielle \"classique\". Ce "
+"mode est le mode par défaut pour les Banques de Sons (Soundfonts) \""
+"génériques\" (i.e les sonorités qui n'ont pas été créées spécifiquement pour "
+"la MidiGurdy)."
 
 #: ../../source/The_Menu_System.rst:202
 msgid ""
@@ -309,6 +431,10 @@ msgid ""
 "for Soundfonts which have been specifically created for the MidiGurdy and"
 " is the default for those Soundfonts."
 msgstr ""
+"\"MidiGurdy\": ce mode est très proche du mode \"Vielle à Roue\", mais "
+"ajoute un contrôle élargi du son au moyen du clavier. Ce mode est "
+"principalement utilisé avec la Banque de Sons spécialement créée pour la "
+"MidiGurdy. C'est le mode par défaut pour cette Banque de Sons (Soundfonts)."
 
 #: ../../source/The_Menu_System.rst:207
 msgid ""
@@ -318,10 +444,16 @@ msgid ""
 "sensitive, which means that the volume of the sound is dependent on how "
 "fast you press the keys."
 msgstr ""
+"\"Keyboard\" (Clavier): par ce mode la MidiGurdy peut être jouée comme s'il "
+"s'agissait d'un piano. Les\n"
+"sons sont uniquement contrôlés par les touches du clavier, sans avoir besoin "
+"de tourner la manivelle. Le clavier est \"sensible à la vitesse\", c’est à "
+"dire que le volume sonore émis dépend de la vitesse à laquelle vous appuyez "
+"sur les touches."
 
 #: ../../source/The_Menu_System.rst:214
 msgid "Trompette String Items"
-msgstr ""
+msgstr "Menu des Trompettes"
 
 #: ../../source/The_Menu_System.rst:216
 msgid ""
@@ -329,6 +461,9 @@ msgid ""
 " Menu contains a few additional items that are only relevant for "
 "trompette strings:"
 msgstr ""
+"En plus des éléments communs à tous les types de cordes, le menu des "
+"Trompettes contient quelques éléments supplémentaires qui ne concernent que "
+"les cordes de trompette :"
 
 #: ../../source/The_Menu_System.rst:219
 msgid ""
@@ -336,12 +471,17 @@ msgid ""
 "generation of this string, especially how the chien sound is generated "
 "and controlled:"
 msgstr ""
+"**Mode** – Ce paramètre contrôle la façon dont la vitesse de rotation de la "
+"roue affecte la génération du son de cette corde, en particulier la façon "
+"dont le son du chien est généré et contrôlé :"
 
 #: ../../source/The_Menu_System.rst:223
 msgid ""
 "“MidiGurdy”: (default) This mode is the default and the correct mode for "
 "all hurdy-gurdy trompette / chien sounds designed for the MidiGurdy."
 msgstr ""
+"\"MidiGurdy\" : (par défaut) Ce mode est le mode par défaut et le mode "
+"correct pour tous les sons de trompette et de chien conçus pour la MidiGurdy."
 
 #: ../../source/The_Menu_System.rst:226
 msgid ""
@@ -351,10 +491,15 @@ msgid ""
 "output sound if the chien would sound, the volume of the sound depends on"
 " how hard and fast the attach of your coup is."
 msgstr ""
+"\"Percussion\" : ce mode est utile si vous voulez utiliser le chien de la "
+"trompette pour déclencher d'autres sons qui ne sont pas de la vielle à roue, "
+"tels que batterie, percussion, base bouchée ou instruments similaires. La "
+"corde n'émettra un son que si le chien sonne, le volume du son dépend de "
+"l'intensité et de la rapidité de l'attaque de votre coup."
 
 #: ../../source/The_Menu_System.rst:234
 msgid "Preset Menu"
-msgstr ""
+msgstr "Menu des Préréglages (Preset Menu)"
 
 #: ../../source/The_Menu_System.rst:240
 msgid ""
@@ -363,20 +508,29 @@ msgid ""
 "can create your own presets or edit existing presets to your liking.  To "
 "open the Preset Menu, press D4 and the list of presets will appear."
 msgstr ""
+"Les préréglages permettent de sauvegarder et de \"charger\" rapidement la "
+"configuration de l'instrument. La MidiGurdy est livrée avec quelques "
+"configurations préréglées, mais vous pourrez créer vous propres préréglages "
+"ou éditer des préréglages existants, à votre guise ! Pour ouvrir le Menu des "
+"Préréglages (Preset Menu) appuyer sur D4 et la liste des préréglage apparaît "
+"sur l'écran."
 
 #: ../../source/The_Menu_System.rst:246
 msgid "Loading a preset"
-msgstr ""
+msgstr "Charger un Préréglage"
 
 #: ../../source/The_Menu_System.rst:248
 msgid ""
 "To load a preset, select any numbered preset from the list with the "
 "rotary knob, then do a short press on the rotary knob."
 msgstr ""
+"Pour charger un préréglage, en tournant le bouton rotatif sélectionner dans "
+"la liste un préréglage numéroté, puis exercer une courte pression sur le "
+"bouton rotatif."
 
 #: ../../source/The_Menu_System.rst:252
 msgid "Saving a preset"
-msgstr ""
+msgstr "Sauvegarder un Préréglage"
 
 #: ../../source/The_Menu_System.rst:254
 msgid ""
@@ -384,6 +538,9 @@ msgid ""
 "entry in the preset list called “New preset...” and press the rotary "
 "knob."
 msgstr ""
+"Pour sauvegarder la configuration du moment en un nouveau préréglage, il "
+"suffit d'aller dans la liste des \"presets\" ( D4) , de sélectionner la "
+"dernière entrée appelée \"New Preset...\" et d'appuyer sur le bouton rotatif."
 
 #: ../../source/The_Menu_System.rst:261
 msgid ""
@@ -393,62 +550,75 @@ msgid ""
 "Pressing the rotary knob after choosing a character moves to the next "
 "character position."
 msgstr ""
+"Un nouvel écran apparait sur lequel vous pourrez écrire un nom de ce nouveau "
+"préréglage. La première lettre du nom est en \"surbrillance\", vous pourrez "
+"la changer en tournant le bouton rotatif à droite ou à gauche. Par une "
+"pression sur le bouton rotatif la lettre voulue sera conservée et le curseur "
+"positionné sur la lettre suivante."
 
 #: ../../source/The_Menu_System.rst:266
 msgid ""
 "At the bottom of the screen you see new labels for the four buttons under"
 " the display:"
 msgstr ""
+"Au bas de l'écran on peut voir de nouvelles icones au dessus de chaque "
+"bouton :"
 
 #: ../../source/The_Menu_System.rst:270
 msgid "DEL"
-msgstr ""
+msgstr "DEL"
 
 #: ../../source/The_Menu_System.rst:270
 msgid "**<**"
-msgstr ""
+msgstr "**<**"
 
 #: ../../source/The_Menu_System.rst:270
 msgid "**>**"
-msgstr ""
+msgstr "**>**"
 
 #: ../../source/The_Menu_System.rst:270
 msgid "SAVE"
-msgstr ""
+msgstr "SAVE"
 
 #: ../../source/The_Menu_System.rst:273
 msgid "D1"
-msgstr ""
+msgstr "D1"
 
 #: ../../source/The_Menu_System.rst:273
 msgid "D2"
-msgstr ""
+msgstr "D2"
 
 #: ../../source/The_Menu_System.rst:273
 msgid "D3"
-msgstr ""
+msgstr "D3"
 
 #: ../../source/The_Menu_System.rst:273
 msgid "D4"
-msgstr ""
+msgstr "D4"
 
 #: ../../source/The_Menu_System.rst:277
 msgid ""
 "Press the buttons under the arrows **<** and **>** to change which "
 "character you are currently editing (moving the cursor)."
 msgstr ""
+"Presser le bouton sous les flèches **<** ou **>** pour changer la lettre qui "
+"est en train d'être éditée (en bougeant le curseur)."
 
 #: ../../source/The_Menu_System.rst:280
 msgid ""
 "Press the button under DEL to delete the currently selected character and"
 " shift all following characters to the left by one place."
 msgstr ""
+"Presser le bouton sous DEL pour supprimer la lettre qui est en train d'être "
+"éditée et décaler tout ce qui se trouve à sa gauche en une seule fois."
 
 #: ../../source/The_Menu_System.rst:283
 msgid ""
 "Press the button under SAVE to accept the current name and save the "
 "preset."
 msgstr ""
+"Presser sur le bouton sous SAVE pour accepter le nom actuel et sauvegarder "
+"le préréglage."
 
 #: ../../source/The_Menu_System.rst:285
 msgid ""
@@ -456,10 +626,13 @@ msgid ""
 " is called “Unnamed” in the list of presets and can only be identified by"
 " it’s number."
 msgstr ""
+"Il n'est pas obligatoire de donner un nom à un préréglage (Preset). Dans ce "
+"cas le préréglage sera nommé \"Unnamed\" dans la liste des préréglages et "
+"sera seulement identifié par son numéro."
 
 #: ../../source/The_Menu_System.rst:290
 msgid "Editing a preset"
-msgstr ""
+msgstr "Éditer un Préréglage"
 
 #: ../../source/The_Menu_System.rst:296
 msgid ""
@@ -469,10 +642,17 @@ msgid ""
 " “Move”, “Rename”, “ Replace” and “Delete”.  Select one of the options "
 "with the rotary knob or press BACK to cancel the operation."
 msgstr ""
+"Pour éditer un préréglage existant, sélectionner le préréglage que vous "
+"désirez changer à l'aide du bouton rotatif et **appuyez longuement** sur le "
+"centre de ce bouton ROT pour ouvrir le Menu d'édition des préréglages.  Le "
+"nom du préréglage choisi apparaîtra, avec quatre options: \"Move\" (Déplacer)"
+", \"REname\" (Renommer), \"Replace\" (Remplacer), \"Delete\" (Supprimer). "
+"Sélectionnez une des options avec le bouton rotatif ROT ou appuyez sur le "
+"bouton BACK pour annuler l'opération."
 
 #: ../../source/The_Menu_System.rst:303
 msgid "Moving a preset"
-msgstr ""
+msgstr "Déplacer un Préréglage"
 
 #: ../../source/The_Menu_System.rst:305
 msgid ""
@@ -481,10 +661,15 @@ msgid ""
 " to the desired position, then do a short press on the rotary knob to "
 "save the new position. Or press the BACK button to cancel the operation."
 msgstr ""
+"En choisissant \"Move\" dans le Menu d'Édition des Préréglages, la liste des "
+"préréglages apparaît avec le nom du préréglage en \"surbrillance\". Utiliser "
+"le bouton rotatif pour le déplacer dans la position désirée, puis appuyer "
+"rapidement sur le bouton rotatif pour la sauvegarder dans sa nouvelle "
+"position.  Ou appuyer sur le bouton BACK pour annuler l'opération."
 
 #: ../../source/The_Menu_System.rst:311
 msgid "Renaming a preset"
-msgstr ""
+msgstr "Renommer un Préréglage"
 
 #: ../../source/The_Menu_System.rst:313
 msgid ""
@@ -493,10 +678,14 @@ msgid ""
 "just in the same way as if you would save a new preset (see “ Saving a "
 "preset” above)."
 msgstr ""
+"En choisissant \"Rename\" dans le Menu d'Édition des Préréglages, un écran "
+"apparait par lequel il est possible de modifier le nom du préréglage. Cet "
+"écran fonctionne de la même façons que pour sauvegarder un nouveau "
+"préréglage (voir \"Sauvegarde un Préréglage \" ci-dessus)."
 
 #: ../../source/The_Menu_System.rst:318
 msgid "Replacing a preset"
-msgstr ""
+msgstr "Remplacer un Préréglage"
 
 #: ../../source/The_Menu_System.rst:320
 msgid ""
@@ -504,10 +693,13 @@ msgid ""
 " setup will be stored over the preset you are currently editing, "
 "replacing everything with the new setup."
 msgstr ""
+"En choisissant \"Replace\" dans le Menu d'Édition des Préréglages, la "
+"configuration active de l'instrument sera conserver à la place du préréglage "
+"en édition, remplaçant tout par une nouvelle configuration."
 
 #: ../../source/The_Menu_System.rst:325
 msgid "Deleting a preset"
-msgstr ""
+msgstr "Supprimer un Préréglage"
 
 #: ../../source/The_Menu_System.rst:327
 msgid ""
@@ -515,22 +707,29 @@ msgid ""
 "preset is deleted immediately and the following presets are shifted up "
 "automatically."
 msgstr ""
+"En choisissant \"Delete\" dans le Menu d'Édition des Préréglages\", le "
+"préréglage sélectionné sera immédiatement supprimé et les préréglages "
+"suivant remonteront automatiquement dans la liste."
 
 #: ../../source/The_Menu_System.rst:334
 msgid "Configuration Menu"
-msgstr ""
+msgstr "Menu de Configuration"
 
 #: ../../source/The_Menu_System.rst:340
 msgid ""
 "The configuration menu contains many settings that affect the instrument "
 "as a whole:"
 msgstr ""
+"Le Menu Configuration offre de nombreuses possibilités affectant l'ensemble "
+"de l'instrument :"
 
 #: ../../source/The_Menu_System.rst:343
 msgid ""
 "**Coarse Tune** – shifts the tuning of all strings of the MidiGurdy up or"
 " down the given number of semitones."
 msgstr ""
+"**Coarse Tune** – change l'accordage de toutes les cordes de la MidiGurdy en "
+"montant ou en descendant le nombre donné de demi-tons."
 
 #: ../../source/The_Menu_System.rst:347
 msgid ""
@@ -538,6 +737,10 @@ msgid ""
 "down the given number of cents. The default tuning (Fine Tune = 0, Coarse"
 " Tune = 0) of the instrument with the supplied Soundfonts is A=440Hz."
 msgstr ""
+"**Fine Tune** – change l'accordage de toutes les cordes de la MidiGurdy en "
+"montant ou en descendant le nombre donné de centièmes. L'accordage de "
+"l'instrument par défaut (Fine Tune = 0, Coarse Tune = 0) avec les Banques de "
+"Sons fournies est le \"La 440Hz\" (A=440Hz)."
 
 #: ../../source/The_Menu_System.rst:351
 msgid ""
@@ -545,6 +748,10 @@ msgid ""
 "hear when pressing a key harder or softer. Increase this value for more "
 "pitch bend, decrease it for less. 100 cent equal one semitone."
 msgstr ""
+"**Pitch Bend** – contrôle la quantité en centième du \"portamento\" "
+"résultant de la pression plus ou moins forte exercée sur les touches. Monter "
+"la valeur pour plus de \"pitch bend\", la descendre pour moins d’effet. 100 "
+"centièmes correspondent à un demi-ton."
 
 #: ../../source/The_Menu_System.rst:355
 msgid ""
@@ -554,6 +761,12 @@ msgid ""
 " increase the gain to reach the desired volume or decrease the gain to "
 "avoid digital distortion and clipping in the synthesizer."
 msgstr ""
+"**Synth Gain** – contrôle la valeur du gain (amplification) utilisé dans le "
+"synthétiseur embarqué (interne). En fonction des sonorités choisies pour les "
+"cordes et le volumes des échantillons (\"samples\") dans la \"Banque de "
+"Sons\" (Soundfonts), il faudra régler le gain en augmentant ou diminuant sa "
+"valeur pour obtenir le volume adéquat afin d'éviter une distorsion digitale "
+"et / ou un écrêtage dans le synthétiseur."
 
 #: ../../source/The_Menu_System.rst:361
 msgid ""
@@ -561,20 +774,26 @@ msgid ""
 "choose the sound of the key noise channel and change the volume and "
 "stereo balance of the key noise."
 msgstr ""
+"**Keynoise…** - ouvre un menu semblable au Menu de Cordes, dans lequel il y "
+"a possibilité de choisir le canal affecté au \"bruit des touches\" et d’en "
+"changer le volume ainsi que la balance stéréo."
 
 #: ../../source/The_Menu_System.rst:365
 msgid ""
 "**MIDI…** - opens the MIDI configuration menu. Please see :ref:`midi` on "
 "how to configure the MIDI input and output."
 msgstr ""
+"**MIDI...** - ouvre le menu de configuration MIDI. Voir :ref:`midi` pour "
+"savoir comment configurer l'entrée et la sortie MIDI."
 
 #: ../../source/The_Menu_System.rst:368
 msgid "**Brightness** – Controls the brightness of the display."
-msgstr ""
+msgstr "**Brightness** – contrôle la luminosité de l'écran."
 
 #: ../../source/The_Menu_System.rst:370
 msgid ""
 "**Disp. Timeout** – Controls the number of seconds of inactivity after "
 "which the menu system will return to the Home Screen automatically."
 msgstr ""
-
+"**Disp. Timeout** – contrôle le nombre de secondes d'inactivité après "
+"lesquelles le Menu Système basculera automatiquement sur l'Écran d'Accueil."
