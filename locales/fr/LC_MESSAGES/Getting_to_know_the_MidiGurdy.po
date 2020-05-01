@@ -8,16 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-21 13:32+0200\n"
+"POT-Creation-Date: 2020-05-01 12:51+0200\n"
 "PO-Revision-Date: 2019-09-22 13:07+0000\n"
 "Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:2
@@ -26,25 +25,26 @@ msgstr "Découvrir la MidiGurdy"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:4
 msgid ""
-"In many ways the MidiGurdy works very similar to other hurdy-gurdies, but"
-" there are a few differences that you should be aware of. The MidiGurdy "
-"also offers many functions that you won‘t find on an acoustic instrument,"
-" which this manual will explain in detail."
+"In many ways the MidiGurdy works very similar to other hurdy-gurdies, but "
+"there are a few differences that you should be aware of. The MidiGurdy also"
+" offers many functions that you won‘t find on an acoustic instrument, which"
+" this manual will explain in detail."
 msgstr ""
 "La vielle à roue MidiGurdy fonctionne de bien des façons comme les autres "
-"vielles à roue, mais il y a quelques différences que vous devriez connaître. "
-"La MidiGurdy offre également de nombreuses fonctions que vous ne trouverez "
-"pas sur un instrument acoustique, que ce manuel vous expliquera en détail."
+"vielles à roue, mais il y a quelques différences que vous devriez "
+"connaître. La MidiGurdy offre également de nombreuses fonctions que vous ne"
+" trouverez pas sur un instrument acoustique, que ce manuel vous expliquera "
+"en détail."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:9
 msgid ""
-"In this section we will explore the mechanical features of the instrument"
-" and learn about the user controls and the connectors available on the "
+"In this section we will explore the mechanical features of the instrument "
+"and learn about the user controls and the connectors available on the "
 "MidiGurdy."
 msgstr ""
-"Dans cette section, nous allons explorer les caractéristiques mécaniques de "
-"l'instrument et en apprendre davantage sur les commandes utilisateur et les "
-"connecteurs disponibles sur la MidiGurdy."
+"Dans cette section, nous allons explorer les caractéristiques mécaniques de"
+" l'instrument et en apprendre davantage sur les commandes utilisateur et "
+"les connecteurs disponibles sur la MidiGurdy."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:13
 msgid "Mechanical Features"
@@ -65,8 +65,8 @@ msgid ""
 "requires you to tilt the instrument forward while playing."
 msgstr ""
 "Le clavier de la MidiGurdy fonctionne comme celui des vielles à roue "
-"acoustiques, la gravitation permet aux touches de revenir en position basse "
-"après qu'elles aient été actionnées, ce qui nécessite d'incliner "
+"acoustiques, la gravitation permet aux touches de revenir en position basse"
+" après qu'elles aient été actionnées, ce qui nécessite d'incliner "
 "l'instrument vers l'avant lorsque l'on en joue."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:30
@@ -78,8 +78,8 @@ msgid ""
 "The tangent is covered by a wooden lid that is held in place using four "
 "magnets."
 msgstr ""
-"Le couvercle en bois recouvre les sautereaux et est maintenu en place par 4 "
-"aimants."
+"Le couvercle en bois recouvre les sautereaux et est maintenu en place par 4"
+" aimants."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:36
 msgid "(3) Crank"
@@ -87,10 +87,10 @@ msgstr "(3) Manivelle"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:38
 msgid ""
-"The crank also works like you would expect from a hurdy-gurdy. You can "
-"turn it forwards, backwards, shake it and use it to sound the trompette "
-"by giving shorter or longer impulses while turning. The turning speed "
-"also affects the volume of the instrument."
+"The crank also works like you would expect from a hurdy-gurdy. You can turn"
+" it forwards, backwards, shake it and use it to sound the trompette by "
+"giving shorter or longer impulses while turning. The turning speed also "
+"affects the volume of the instrument."
 msgstr ""
 "La manivelle fonctionne aussi comme sur une vielle \"classique\". Il est "
 "possible de la manœuvrer vers l'avant, l'arrière, la faire vibrer et "
@@ -105,17 +105,17 @@ msgstr "(4) Couvercle de la roue"
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:46
 msgid ""
 "The wheel cover can be lifted by grabbing it on both sides and simply "
-"lifting it upwards with a little force.  Once the cover is removed, you "
-"can grab the wheel to attach or remove the crank.  To close the cover "
-"again, carefully insert it into the cut-out around the wheel and push "
-"down with a little force until you hear it snap into place."
+"lifting it upwards with a little force.  Once the cover is removed, you can"
+" grab the wheel to attach or remove the crank.  To close the cover again, "
+"carefully insert it into the cut-out around the wheel and push down with a "
+"little force until you hear it snap into place."
 msgstr ""
-"Le couvre-roue peut être enlevé en pressant sur les deux côtés et simplement "
-"en le soulevant sans forcer. Une fois le couvercle de la roue ôté, il "
-"devient possible, en maintenant celle-ci, de retirer ou réinstaller la "
-"manivelle sur son axe. Pour remettre en place le couvre-roue, l’insérer avec "
-"précaution dans les rainures autour de la roue, et l'enfoncer sans forcer "
-"jusqu'à entendre un bruit indiquant qu'il est bien enclenché."
+"Le couvre-roue peut être enlevé en pressant sur les deux côtés et "
+"simplement en le soulevant sans forcer. Une fois le couvercle de la roue "
+"ôté, il devient possible, en maintenant celle-ci, de retirer ou réinstaller"
+" la manivelle sur son axe. Pour remettre en place le couvre-roue, l’insérer"
+" avec précaution dans les rainures autour de la roue, et l'enfoncer sans "
+"forcer jusqu'à entendre un bruit indiquant qu'il est bien enclenché."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:53
 msgid "(5) Wheel Brake Control"
@@ -123,18 +123,18 @@ msgstr "(5) Contrôleur du frein de la roue"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:55
 msgid ""
-"The black knob right next to the wheel cover controls the wheel brake. It"
-" is used to adjust the amount of resistance that you feel while turning "
-"the crank, simulating strings pressing down onto the wheel. Turn right to"
-" pull it tighter and increase the required force, turn left to loosen the"
-" brake and reduce the required force.  Always turn the crank while "
-"adjusting the brake to avoid overloading the wheel and axle! Excessive "
-"force on the brake might damage the parts of the braking system."
+"The black knob right next to the wheel cover controls the wheel brake. It "
+"is used to adjust the amount of resistance that you feel while turning the "
+"crank, simulating strings pressing down onto the wheel. Turn right to pull "
+"it tighter and increase the required force, turn left to loosen the brake "
+"and reduce the required force.  Always turn the crank while adjusting the "
+"brake to avoid overloading the wheel and axle! Excessive force on the brake"
+" might damage the parts of the braking system."
 msgstr ""
-"Le bouton noir juste à côté du couvercle de la roue contrôle le frein de la "
-"roue. Frein utilisé pour ajuster à votre convenance la résistance ressentie "
-"sur la manivelle quand la roue est mise en mouvement, et simuler la "
-"pressions de cordes sur celle-ci. Tourner ce bouton vers la droite pour "
+"Le bouton noir juste à côté du couvercle de la roue contrôle le frein de la"
+" roue. Frein utilisé pour ajuster à votre convenance la résistance "
+"ressentie sur la manivelle quand la roue est mise en mouvement, et simuler "
+"la pressions de cordes sur celle-ci. Tourner ce bouton vers la droite pour "
 "augmenter l'appui « simulé », vers la gauche pour le contraire. Il faut "
 "toujours faire le réglage du frein de roue la manivelle en mouvement, afin "
 "d'éviter une surcharge de pression sur la roue et son axe. Trop de "
@@ -149,123 +149,148 @@ msgid ""
 "The front panel contains all connectors used to interface the MidiGurdy "
 "with external components.  We will have a closer look at the individual "
 "input and output ports in the next section.  Instrument strap pins There "
-"are three instrument strap pins: one at the front and two pins at the "
-"back."
+"are three instrument strap pins: one at the front and two pins at the back."
 msgstr ""
-"Le panneau avant concentre tous les connecteurs utilisés pour l'interface de "
-"la MidiGurdy avec les composants externes. Détails de ces connecteurs d’"
-"entrée et de sortie dans la section suivante. Il y a trois points d’accroche:"
-" un à l'avant et deux à l'arrière de la MidiGurdy."
+"Le panneau avant concentre tous les connecteurs utilisés pour l'interface "
+"de la MidiGurdy avec les composants externes. Détails de ces connecteurs "
+"d’entrée et de sortie dans la section suivante. Il y a trois points "
+"d’accroche: un à l'avant et deux à l'arrière de la MidiGurdy."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:73
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:77
+msgid "Location of the battery compartment"
+msgstr ""
+
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:80
+msgid "(7) Battery Compartment"
+msgstr ""
+
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:82
+msgid ""
+"The battery compartment can be used to power the MidiGurdy via eight "
+"AA/R6/Mignon batteries. Please ensure correct polarity of the batteries "
+"when inserting them into the instrument."
+msgstr ""
+
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:87
+msgid "(8) Battery Compartment Screws"
+msgstr ""
+
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:89
+msgid ""
+"The lid of the battery compartment is secured in place with two slotted "
+"screws. Use a suitable screwdriver to remove or tighten both screws. Please"
+" do not use excessive force then tightening the screws."
+msgstr ""
+
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:95
 msgid "Tangent box lid buttons"
 msgstr "Boutons sur le couvercle du clavier"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:75
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:97
 msgid ""
-"There are two distinct sections that are used to control the many "
-"different functions of the MidiGurdy: the five buttons in the tangent box"
-" lid and the main user interface."
+"There are two distinct sections that are used to control the many different"
+" functions of the MidiGurdy: the five buttons in the tangent box lid and "
+"the main user interface."
 msgstr ""
-"Il y a deux parties différentes pour contrôler les fonctions de la MidiGurdy "
-": cinq boutons sur le couvercle du clavier et l'Interface Utilisateur "
-"Principal."
+"Il y a deux parties différentes pour contrôler les fonctions de la "
+"MidiGurdy : cinq boutons sur le couvercle du clavier et l'Interface "
+"Utilisateur Principal."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:83
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:105
 msgid "Buttons in the tangent box lid"
 msgstr "Boutons dans le couvercle du clavier"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:85
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:107
 msgid ""
-"The lid of the tangent box contains five buttons, arranged in two groups."
-" Let’s look at the group of three buttons closest to the player first, "
+"The lid of the tangent box contains five buttons, arranged in two groups. "
+"Let’s look at the group of three buttons closest to the player first, "
 "called the “String Buttons“."
 msgstr ""
-"Le couvercle du clavier comporte 5 boutons, disposés en deux groupes. Trois "
-"boutons proches (S1-S2-S3) servent à régler les différentes \"cordes\"."
+"Le couvercle du clavier comporte 5 boutons, disposés en deux groupes. Trois"
+" boutons proches (S1-S2-S3) servent à régler les différentes \"cordes\"."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:90
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:112
 msgid "The String Buttons (S1 S2 S3)"
 msgstr "Les Boutons de cordes (S1 S2 S3)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:92
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:114
 msgid ""
-"These buttons are used to switch individual strings on and off (lift them"
-" on and off the wheel). The order of the buttons follows the string "
+"These buttons are used to switch individual strings on and off (lift them "
+"on and off the wheel). The order of the buttons follows the string "
 "positions on an acoustic hurdy-gurdy:"
 msgstr ""
-"Ces trois boutons sont utilisés pour commuter individuellement (\"on\" ou \""
-"off\") les cordes sur la roue.  Ils sont disposés comme sur une vielle "
+"Ces trois boutons sont utilisés pour commuter individuellement (\"on\" ou "
+"\"off\") les cordes sur la roue.  Ils sont disposés comme sur une vielle "
 "acoustique :"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:96
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:118
 msgid "**S1** drone string (closest to the keyboard)"
 msgstr "**S1** bourdons (bouton le plus près des touches du clavier)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:98
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:120
 msgid "**S2** melody string (centre)"
 msgstr "**S2** chanterelles (bouton du milieu)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:100
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:122
 msgid "**S3** trompette string (closest to the player)"
 msgstr "**S3** trompettes (bouton le plus près du joueur)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:103
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:125
 msgid ""
-"Press any of these buttons, turn the crank and notice how the string "
-"sound gets switched on or off. An illuminated button means the string is "
+"Press any of these buttons, turn the crank and notice how the string sound "
+"gets switched on or off. An illuminated button means the string is "
 "currently switched on."
 msgstr ""
 "Appuyez sur n'importe lequel de ces trois boutons, tournez la manivelle et "
 "notez les cordes activées : un bouton éclairé veut dire que la corde en "
 "référence est activée."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:108
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:130
 msgid "The Group Buttons (G2 G3)"
 msgstr "Les Boutons de groupe (G2 G3)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:110
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:132
 msgid ""
 "The two black buttons on the tangent box lid are called the “Group“ "
 "buttons. The MidiGurdy has a total of nine strings but only three String "
-"Buttons for switching the strings on and off. This is why the Strings are"
-" arranged in three groups:"
+"Buttons for switching the strings on and off. This is why the Strings are "
+"arranged in three groups:"
 msgstr ""
-"Les deux boutons noirs sur le couvercle sont nommés \"boutons de Groupe\".  "
-"La MidiGurdy a un total de neuf \"cordes\" réunies en trois groupe :"
+"Les deux boutons noirs sur le couvercle sont nommés \"boutons de Groupe\"."
+"  La MidiGurdy a un total de neuf \"cordes\" réunies en trois groupe :"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:115
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:137
 msgid "Group 1 – Drone 1, Melody 1, Trompette 1 (activated by default)"
 msgstr "Groupe 1 - Bourdon 1, Chanterelle 1, Trompette 1 (activé par défaut)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:117
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:139
 msgid "Group 2 – Drone 2, Melody 2, Trompette 2 ( activated with **G2**)"
 msgstr ""
 "Groupe 2 - Bourdon 2, Chanterelle 2, Trompette 2 (activé en appuyant sur "
 "**G2**)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:119
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:141
 msgid "Group 3 – Drone 3, Melody 3, Trompette 3 (activated with **G3**)"
 msgstr ""
 "Groupe 3 - Bourdon 3, Chanterelle 3, Trompette 3 (activé en appuyant sur "
 "**G3**)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:121
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:143
 msgid ""
 "If you only press the String Buttons **S1**, **S2** or **S3** you are "
-"controlling the strings in **Group 1**, as this group is active by "
-"default (i.e. if you don’t press any of the Group Buttons.)"
+"controlling the strings in **Group 1**, as this group is active by default "
+"(i.e. if you don’t press any of the Group Buttons.)"
 msgstr ""
 "En appuyant sur les boutons **S1**, **S2** ou **S3** vous contrôlez les "
-"cordes du **Groupe 1** car ce groupe est activé par défaut (i.e si vous n’"
-"appuyez pas sur un bouton de groupe.)"
+"cordes du **Groupe 1** car ce groupe est activé par défaut (i.e si vous "
+"n’appuyez pas sur un bouton de groupe.)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:124
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:146
 msgid ""
-"If you want to control the strings in **Group 2** instead, you simply "
-"hold the **G2** button while pressing any of the String Buttons. Or hold "
-"the **G3** button while pressing the String Buttons to control the "
-"strings in **Group 3**."
+"If you want to control the strings in **Group 2** instead, you simply hold "
+"the **G2** button while pressing any of the String Buttons. Or hold the "
+"**G3** button while pressing the String Buttons to control the strings in "
+"**Group 3**."
 msgstr ""
 "Au lieu de cela, pour contrôler les cordes du **Groupe 2**, il suffit de "
 "maintenir enfoncé le Bouton **G2** tout en appuyant sur n'importe quel "
@@ -273,41 +298,41 @@ msgstr ""
 "appuyant sur n'importe quel bouton de corde pour avoir le contrôle des "
 "cordes du **Groupe 3**."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:128
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:150
 msgid ""
 "As soon as you press one of the Group Buttons, the illumination of the "
 "String Buttons changes to indicate the on/off state of the drone, melody "
 "and trompette string in that group."
 msgstr ""
-"En appuyant sur l'un des deux boutons de Groupe, l'éclairage des boutons de "
-"cordes indique instantanément quelles cordes (bourdons - chanterelles - "
+"En appuyant sur l'un des deux boutons de Groupe, l'éclairage des boutons de"
+" cordes indique instantanément quelles cordes (bourdons - chanterelles - "
 "trompette) sont actives (\"on\") ou inactives (\"off\") dans ce groupe."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:132
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:154
 msgid ""
-"Pressing the Group Buttons only affects which strings you switch on and "
-"off with the String Buttons.  They have no other effect on the "
-"instrument.  You can mix and match strings from all groups while playing,"
-" or even play all nine strings simultaneously."
+"Pressing the Group Buttons only affects which strings you switch on and off"
+" with the String Buttons.  They have no other effect on the instrument.  "
+"You can mix and match strings from all groups while playing, or even play "
+"all nine strings simultaneously."
 msgstr ""
 "Appuyer sur les boutons de Groupe montre seulement quelles cordes sont "
 "actives (\"on\") ou inactives (\"off\").  Ces boutons n’ont pas d’autre "
 "effet sur l’instrument. On peut mixer et assembler les cordes de n'importe "
 "quel groupe tout en jouant, et même jouer les neufs cordes simultanément."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:139
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:161
 msgid "User Interface"
 msgstr "Interface Utilisateur"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:145
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:167
 msgid "The main user interface of the MidiGurdy"
 msgstr "Principal interface utilisateur de la MidiGurdy"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:147
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:169
 msgid ""
-"The main user interface of the MidiGurdy consists of the display, a "
-"rotary knob and five buttons.  First a short overview explaining the most"
-" important functions of the interface. For a detailed description of the "
+"The main user interface of the MidiGurdy consists of the display, a rotary "
+"knob and five buttons.  First a short overview explaining the most "
+"important functions of the interface. For a detailed description of the "
 "settings and the menu system, please see the section :ref:`menu-system`."
 msgstr ""
 "L'Interface Utilisateur Principal de la MidiGurdy consiste en un écran, un "
@@ -316,65 +341,64 @@ msgstr ""
 "description détaillée des configurations et du menu système, se reporter à "
 "la section :ref:`menu-system`."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:153
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:175
 msgid "Display"
 msgstr "Écran"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:155
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:177
 msgid ""
-"The display of the MidiGurdy is used to show you the current setup of the"
-" instrument and is used to display all settings and menu items. By "
-"default it shows the so called “Home Screen“ which informs you about the "
-"current tuning and on/off state of all strings, the currently selected "
-"preset, how the instrument is powered and the estimated battery charge in"
-" case you are running on batteries (see :ref:`menu-system` for more "
-"details)."
+"The display of the MidiGurdy is used to show you the current setup of the "
+"instrument and is used to display all settings and menu items. By default "
+"it shows the so called “Home Screen“ which informs you about the current "
+"tuning and on/off state of all strings, the currently selected preset, how "
+"the instrument is powered and the estimated battery charge in case you are "
+"running on batteries (see :ref:`menu-system` for more details)."
 msgstr ""
 "L'écran de la MidiGurdy indique la configuration en cours et est utilisé "
-"pour paramétrer les cordes autres éléments du menu. Par défaut l'écran nommé "
-"\"Écran d'Accueil\" vous informe sur l’accord de chaque corde et sur son "
-"état d’activité (on / off), sur la présélection active (preset) ainsi que "
-"sur le mode d'alimentation en cours, avec notamment une icône indiquant la "
-"charge disponible en cas de fonctionnement sur batteries (voir :ref:`menu-"
-"system` pour plus de détails)."
+"pour paramétrer les cordes autres éléments du menu. Par défaut l'écran "
+"nommé \"Écran d'Accueil\" vous informe sur l’accord de chaque corde et sur "
+"son état d’activité (on / off), sur la présélection active (preset) ainsi "
+"que sur le mode d'alimentation en cours, avec notamment une icône indiquant"
+" la charge disponible en cas de fonctionnement sur batteries (voir :ref"
+":`menu-system` pour plus de détails)."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:163
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:185
 msgid "Rotary knob (ROT)"
 msgstr "Bouton rotatif (ROT)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:165
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:187
 msgid ""
 "You can turn this knob left and right and also press it like a button.  "
 "Turning the knob is used to navigate the menu system or to increase or "
-"decrease values. Pressing the knob usually selects a menu item or "
-"confirms a changed value."
+"decrease values. Pressing the knob usually selects a menu item or confirms "
+"a changed value."
 msgstr ""
 "Ce bouton tourne à droite ou à gauche, il peut être également appuyé. Il "
-"sert à naviguer dans le \"Menu System\" ou à augmenter ou diminuer des \""
-"valeurs\". Presser sur ce bouton permet de sélectionner un élément de \""
-"menu\" ou de confirmer un changement de valeur."
+"sert à naviguer dans le \"Menu System\" ou à augmenter ou diminuer des "
+"\"valeurs\". Presser sur ce bouton permet de sélectionner un élément de "
+"\"menu\" ou de confirmer un changement de valeur."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:170
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:192
 msgid "Back button (BACK)"
 msgstr "Bouton de retour (BACK)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:172
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:194
 msgid ""
-"The back button is right next to the rotary knob. Regardless on where you"
-" are in the menu system, pressing this button will always cancel the "
-"current selection or operation, bring you back to the previous screen and"
-" eventually back to the Home screen."
+"The back button is right next to the rotary knob. Regardless on where you "
+"are in the menu system, pressing this button will always cancel the current"
+" selection or operation, bring you back to the previous screen and "
+"eventually back to the Home screen."
 msgstr ""
-"Ce bouton est juste à côté du bouton rotatif. Quelque soit l'élément du \""
-"menu système\" sélectionné, une pression sur ce bouton annulera toujours la "
-"sélection ou l'opération en cours, avec un retour à l'écran précédent et "
-"éventuellement à l’Écran d'Accueil."
+"Ce bouton est juste à côté du bouton rotatif. Quelque soit l'élément du "
+"\"menu système\" sélectionné, une pression sur ce bouton annulera toujours "
+"la sélection ou l'opération en cours, avec un retour à l'écran précédent et"
+" éventuellement à l’Écran d'Accueil."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:178
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:200
 msgid "Display Buttons (D1 D2 D3 D4)"
 msgstr "Bouton d’affichage (D1 D2 D3 D4)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:180
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:202
 msgid ""
 "The four buttons under the display are called the “Display Buttons” and "
 "activate different functions depending on the currently active menu. By "
@@ -384,47 +408,47 @@ msgstr ""
 "gèrent des fonctions différentes en regard du menu affiché. Par défaut les "
 "trois premiers boutons gèrent la configuration des"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:184
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:206
 msgid "the drone strings **D1**"
 msgstr "Bourdons **D1**"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:185
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:207
 msgid "the melody strings **D2**"
 msgstr "Chanterelles **D2**"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:186
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:208
 msgid "the trompette string **D3**"
 msgstr "Trompettes **D3**"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:188
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:210
 msgid "as indicated by their labels in the display on the Home Screen."
 msgstr "comme indiqué sur \"l’Écran d'Accueil\"."
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:190
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:212
 msgid ""
-"The rightmost button **D4** is also called the “Power / Settings” button."
-"  As the name suggests, this button is used for multiple purposes:"
+"The rightmost button **D4** is also called the “Power / Settings” button.  "
+"As the name suggests, this button is used for multiple purposes:"
 msgstr ""
 "Le bouton **D4** (le plus à droite) est aussi nommé bouton \"Energie / "
 "Réglages\". Comme son nom l'indique, il a plusieurs fonctions :"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:193
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:215
 msgid "Switching the MidiGurdy on and off:"
 msgstr "Bouton de mise sous tension de la MidiGurdy :"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:195
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:217
 msgid "Hold this button for about 1 second to switch the instrument on"
 msgstr ""
 "En maintenant l'appui sur celui-ci 1 seconde, il met la MidiGurdy sous "
 "tension (\"on\")"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:197
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:219
 msgid "Hold this button for about 4 seconds to switch the instrument off again"
 msgstr ""
-"En maintenant l'appui sur celui-ci quatre secondes, il met la MidiGurdy hors "
-"tension (\"off\")"
+"En maintenant l'appui sur celui-ci quatre secondes, il met la MidiGurdy "
+"hors tension (\"off\")"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:199
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:221
 msgid ""
 "Hold this button for about 8 seconds and release it again to do a forced "
 "restart of the instrument. Use this if the MidiGurdy has locked up and "
@@ -433,11 +457,12 @@ msgid ""
 msgstr ""
 "En maintenant l'appui sur celui-ci huit secondes et en le relâchant, il "
 "permet la reconfiguration de l'instrument (\"Reset\"). Utiliser cette "
-"fonction que si la MidiGurdy est bloquée et ne réagit à aucune commande (en "
-"espérant que ça n'arrive jamais!)"
+"fonction que si la MidiGurdy est bloquée et ne réagit à aucune commande (en"
+" espérant que ça n'arrive jamais!)"
 
-#: ../../source/Getting_to_know_the_MidiGurdy.rst:204
+#: ../../source/Getting_to_know_the_MidiGurdy.rst:226
 msgid "Opening the Presets and Settings menus with a short press of the button"
 msgstr ""
 "Accès aux préréglages (Presets) et aux menus de configuration par un appui "
 "court sur celui-ci"
+
