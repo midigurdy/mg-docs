@@ -69,6 +69,28 @@ output ports in the next section.  Instrument strap pins There are three
 instrument strap pins: one at the front and two pins at the back.
 
 
+.. figure:: images/battery_compartment.png
+    :alt: The location of the battery compartment
+    :width: 9cm
+    :class: img-auto
+
+    Location of the battery compartment
+
+(7) Battery Compartment
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The battery compartment can be used to power the MidiGurdy via eight
+AA/R6/Mignon batteries. Please ensure correct polarity of the batteries when
+inserting them into the instrument.
+
+(8) Battery Compartment Screws
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The lid of the battery compartment is secured in place with two slotted screws.
+Use a suitable screwdriver to remove or tighten both screws. Please do not use
+excessive force then tightening the screws.
+
+
 Tangent box lid buttons
 -----------------------
 
