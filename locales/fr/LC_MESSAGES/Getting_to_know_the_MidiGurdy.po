@@ -9,14 +9,15 @@ msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-01 12:51+0200\n"
-"PO-Revision-Date: 2019-09-22 13:07+0000\n"
-"Last-Translator: Marcus Weseloh <marcus@weseloh.cc>\n"
-"Language: fr\n"
+"PO-Revision-Date: 2020-05-01 11:11+0000\n"
+"Last-Translator: Weblate Admin <mweseloh42@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:2
@@ -158,11 +159,11 @@ msgstr ""
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:77
 msgid "Location of the battery compartment"
-msgstr ""
+msgstr "Emplacement du compartiment des piles"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:80
 msgid "(7) Battery Compartment"
-msgstr ""
+msgstr "(7) Compartiment des piles"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:82
 msgid ""
@@ -170,10 +171,13 @@ msgid ""
 "AA/R6/Mignon batteries. Please ensure correct polarity of the batteries "
 "when inserting them into the instrument."
 msgstr ""
+"Le compartiment à piles peut être utilisé pour alimenter la MidiGurdy au "
+"moyen de huit piles AA/R6/Mignon. Veuillez vous assurer de la polarité "
+"correcte des piles lorsque vous les insérez dans l'instrument."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:87
 msgid "(8) Battery Compartment Screws"
-msgstr ""
+msgstr "(8) Vis du compartiment des piles"
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:89
 msgid ""
@@ -181,6 +185,9 @@ msgid ""
 "screws. Use a suitable screwdriver to remove or tighten both screws. Please"
 " do not use excessive force then tightening the screws."
 msgstr ""
+"Le couvercle du compartiment des piles est fixé en place par deux vis à "
+"fente. Utilisez un tournevis approprié pour retirer ou serrer les deux vis. "
+"N'utilisez pas de force excessive pour ensuite serrer les vis."
 
 #: ../../source/Getting_to_know_the_MidiGurdy.rst:95
 msgid "Tangent box lid buttons"
@@ -465,4 +472,3 @@ msgid "Opening the Presets and Settings menus with a short press of the button"
 msgstr ""
 "Accès aux préréglages (Presets) et aux menus de configuration par un appui "
 "court sur celui-ci"
-
