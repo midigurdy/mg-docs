@@ -4,23 +4,25 @@
 # Manual package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MidiGurdy User Manual 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-21 13:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-05-13 15:09+0000\n"
+"Last-Translator: Weblate Admin <mweseloh42@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/MIDI.rst:4
 msgid "MIDI with the MidiGurdy"
-msgstr ""
+msgstr "MIDI mit der MidiGurdy"
 
 #: ../../source/MIDI.rst:6
 msgid ""
@@ -28,10 +30,13 @@ msgid ""
 "MIDI controller, for example to control external synthesizers or use the "
 "instrument to input notes in a music notation editor."
 msgstr ""
+"Mit dem USB MIDI Ausgang kann die MidiGurdy als MIDI Controller genutzt "
+"werden, z.B . um externe Synthesizer zu steuern oder das Instrument zur "
+"Noteneingabe in Musikprogrammen zu nutzen."
 
 #: ../../source/MIDI.rst:11
 msgid "Connecting to MIDI devices"
-msgstr ""
+msgstr "MIDI Geräte verbinden"
 
 #: ../../source/MIDI.rst:13
 msgid ""
@@ -39,10 +44,12 @@ msgid ""
 "device. There are a number of different ways on how you can make this "
 "connection."
 msgstr ""
+"Zunächst muss die MidiGurdy mit dem anderen Gerät verbunden werden. Dazu "
+"gibt es verschiedene Möglichkeiten."
 
 #: ../../source/MIDI.rst:18
 msgid "USB MIDI to Computer or Tablet"
-msgstr ""
+msgstr "USB MIDI an Computer oder Tablet anschließen"
 
 #: ../../source/MIDI.rst:20
 msgid ""
@@ -53,22 +60,32 @@ msgid ""
 " So use a USB-A to   USB-B cable, attach the USB-A plug into your "
 "computer and the (square) USB-B   plug into the MidiGurdy."
 msgstr ""
+"Um die MidiGurdy zur Noteneingabe in Musikprogrammen, zum Spielen auf "
+"Software-Synthesizern oder zum Steuern von anderen Musikprogrammen auf einem "
+"Computer zu nutzen, muss das Instrument über ein USB Kabel mit dem Computer "
+"verbunden werden. Es wird ein USB-A auf USB-B Kabel benötigt, der USB-A "
+"Stecker wird mit dem Computer verbunden, der USB-B Stecker mit dem "
+"Instrument."
 
 #: ../../source/MIDI.rst:27
 msgid ""
 "Depending on your operating system, you might need to open up the Sound "
 "or MIDI device preferences."
 msgstr ""
+"Je nach verwendetem Betriebssystem muss die MIDI Verbindung zur MidiGurdy "
+"über die Klang- oder MIDI-Geräteeinstellungen aktiviert werden."
 
 #: ../../source/MIDI.rst:30
 msgid "Android MIDI"
-msgstr ""
+msgstr "Android MIDI"
 
 #: ../../source/MIDI.rst:32
 msgid ""
 "Unlike the web-interface, the MIDI function should work on Android as "
 "well!"
 msgstr ""
+"Auch wenn die USB Verbindung unter Android nicht den Zugriff auf das Web-"
+"Interface erlaubt, sollte die MIDI Verbindung problemlos funktionieren!"
 
 #: ../../source/MIDI.rst:34
 msgid ""
@@ -76,36 +93,45 @@ msgid ""
 "plug it in, but it does not send any MIDI messages until you enable the "
 "connection on the instrument as follows:"
 msgstr ""
+"Die MidiGurdy wird sofort nach der Verbindung mit einem Computer als "
+"externes MIDI Gerät erkannt, sie schickt jedoch erst MIDI Nachrichten, wenn "
+"die Verbindung am Instrument wie folgt aktiviert wurde:"
 
 #: ../../source/MIDI.rst:38
 msgid "Press D4 twice to go to the Configuration menu"
-msgstr ""
+msgstr "D4 zweimal drücken um in das Konfigurationsmenü zu gelangen"
 
 #: ../../source/MIDI.rst:39
 msgid "Turn the rotary knob to scroll down to the \"MIDI...\" entry"
-msgstr ""
+msgstr "Den Drehknopf nutzen um zum Eintrag \"MIDI...\" zu scrollen"
 
 #: ../../source/MIDI.rst:40
 msgid "Press the rotary knob to open the list of MIDI devices"
-msgstr ""
+msgstr "Den Drehknopf drücken um die Liste der MIDI Geräte zu öffnen"
 
 #: ../../source/MIDI.rst:41
 msgid ""
 "You will see only one entry: \"Main Midi...\". Select it by pressing the "
 "rotary knob"
 msgstr ""
+"Es ist mindestens ein Eintrag sichtbar:  \"Main Midi...\". Diesen Eintrag "
+"durch drücken des Drehknopfes auswählen"
 
 #: ../../source/MIDI.rst:43
 msgid ""
 "Turn the rotary knob to scroll down to \"Output\" and press the rotary "
 "knob to active the option"
 msgstr ""
+"Den Drehknopf nutzen um zum Eintrag \"Output\" herunterzuscrollen, dann den "
+"Drehkopf drücken um den Eintrag zu aktivieren"
 
 #: ../../source/MIDI.rst:45
 msgid ""
 "Turn the rotary knob to switch between the options \"Off\", \"On\" and "
 "\"Auto-On\""
 msgstr ""
+"Den Drehknopf nutzen um zwischen den Optionen \"Off\", \"On\" und \"Auto-On\""
+" zu wählen"
 
 #: ../../source/MIDI.rst:48
 msgid ""
@@ -113,6 +139,9 @@ msgid ""
 "and best option if you don't use this feature, to conserve processing "
 "power and battery consumption)."
 msgstr ""
+"**Off** (Aus) bedeutet, dass die MidiGurdy keine MIDI Nachrichten "
+"verschicket (die Standardeinstellung und die beste Option, falls die MIDI "
+"Verbindung aktuell nicht benötigt wird)."
 
 #: ../../source/MIDI.rst:52
 msgid ""
@@ -120,6 +149,10 @@ msgid ""
 "connection. If you disconnect the USB cable and plug it back in, you will"
 " need to manually enable it again to send MIDI messages."
 msgstr ""
+"**On** (An) bedeutet, dass die MidiGurdy MIDI Nachrichten über diese "
+"Verbindung verschickt. Wenn das USB Kabel herausgezogen und neu eingesteckt "
+"wird, muss diese Einstellung wieder manuell auf On gesetzt werden und weiter "
+"Nachrichten zu senden."
 
 #: ../../source/MIDI.rst:56
 msgid ""
@@ -127,16 +160,20 @@ msgid ""
 "if you disconnect the USB cable and plug it back in, the connection will "
 "automatically be enabled again."
 msgstr ""
+"**Auto-On** (Automatisch An) Durch diese Einstellung wird die MIDI "
+"Verbindung automatisch nach einstecken des USB Kabels aktiviert."
 
 #: ../../source/MIDI.rst:60
 msgid ""
 "So as soon as the \"Output\" value is **On** or **Auto-On**, the "
 "MidiGurdy will start sending MIDI messages to your computer."
 msgstr ""
+"Wenn der \"Output\" Wert **On** oder **Auto-On** ist, wird die MidiGurdy "
+"sofort beginnen, MIDI Nachrichten über die Verbindung zu senden."
 
 #: ../../source/MIDI.rst:64
 msgid "USB MIDI to another USB MIDI device"
-msgstr ""
+msgstr "USB MIDI Verbindung zu einem anderen USB MIDI Gerät"
 
 #: ../../source/MIDI.rst:66
 msgid ""
@@ -145,6 +182,9 @@ msgid ""
 "similar), you can use the same USB-A to USB-B cable that you use for the "
 "connection to a computer."
 msgstr ""
+"Wenn die MidiGurdy als Controller für ein anderes externes USB MIDI Gerät "
+"genutzt werden soll kann die Verbindung ebenfalls über ein USB-A auf USB-B "
+"kabel hergestellt werden (wie bei der Verbindung mit einem Computer)."
 
 #: ../../source/MIDI.rst:71
 msgid ""
@@ -152,6 +192,9 @@ msgid ""
 "to your external MIDI device and plug in the USB-A plug into the vertical"
 " USB-A port on the MidiGurdy."
 msgstr ""
+"Das USB Kabel wird in diesem Fall jedoch in umgekehrter Richtung verbunden: "
+"der USB-B Stecker wird mit dem externen Gerät verbunden, der USB-A Stecker "
+"mit der passenden USB-Buchse am Instrument."
 
 #: ../../source/MIDI.rst:75
 msgid ""
@@ -162,10 +205,15 @@ msgid ""
 "pressing the rotary knob, scroll down to \"Output\" and set it to \"On\" "
 "or \"Auto-On\"."
 msgstr ""
+"Sobald Sie die MIDI Konfiguration am Instrument öffnen (durch zweimaliges "
+"Drücken der D4 Taste und Auswahl des \"MIDI...\" Eintrags), sollten sie "
+"einen neuen Eintrag in der Liste sehen. Der Name dieses Eintrags hängt vom "
+"angeschlossenen MIDI Gerät ab. Wählen Sie den Eintrag aus, scrollen Sie zum "
+"Menüpunkt \"Output\" und setzen sie ihn auf  \"On\" oder \"Auto-On\"."
 
 #: ../../source/MIDI.rst:82
 msgid "Connecting to an old-style (5-pin) MIDI device"
-msgstr ""
+msgstr "Verbindung mit einem traditionellen (5-Pin) MIDI Gerät"
 
 #: ../../source/MIDI.rst:84
 msgid ""
@@ -175,12 +223,20 @@ msgid ""
 "Any cable that requires no additional drivers for Windows will work fine "
 "with the MidiGurdy."
 msgstr ""
+"Wenn Sie ein Gerät verbinden möchten, dass nur einen traditionellen 5-"
+"poligen MIDI-Stecker besitzt, so benötigen Sie ein USB-zu-5-Pin-MIDI-"
+"Adapterkabel. Diese Adapterkabel können an vielen Orten gekauft werden, oft "
+"schon  zu sehr günstigen Preisen (wenige Euro). Jedes Adapterkabel, das "
+"keine zusätzlichen Treiber für Windows benötigt, sollte mit der MidiGurdy "
+"problemlos funktionieren."
 
 #: ../../source/MIDI.rst:90
 msgid ""
 "If you have a USB to 5-pin MIDI adapter available, connect its USB-A plug"
 " to the vertical USB-A port on the MidiGurdy."
 msgstr ""
+"Wenn Sie einen USB-zu-5-Pin-MIDI-Adapter zur Verfügung haben, verbinden Sie "
+"dessen USB-A-Stecker mit dem vertikalen USB-A-Anschluss des MidiGurdy."
 
 #: ../../source/MIDI.rst:93
 msgid ""
@@ -191,32 +247,42 @@ msgid ""
 "connection methods, select the MIDI connection by pressing the rotary "
 "knob, scroll down to \"Output\" and set it to **On** or **Auto-On**."
 msgstr ""
+"Öffnen Sie die MIDI-Konfiguration auf der MidiGurdy (D4 zweimal drücken, "
+"nach unten scrollen bis \"MIDI...\") und Sie sollten einen neuen Eintrag in "
+"der Liste sehen. Der Name dieses Eintrags hängt davon ab, wie sich Ihr "
+"Adapterkabel nennt. Oftmals ist es so etwas wie \"MIDI-Kabel #1\" oder "
+"ähnlich. Wie bei den vorherigen Verbindungsmethoden wählen Sie die MIDI-"
+"Verbindung durch Drücken des Drehknopfes aus, scrollen Sie nach unten bis \""
+"Output\" und stellen Sie sie auf **On** oder **Auto-On**."
 
 #: ../../source/MIDI.rst:102
 msgid "MIDI messages sent by the MidiGurdy"
-msgstr ""
+msgstr "Von der MidiGurdy gesendete MIDI-Nachrichten"
 
 #: ../../source/MIDI.rst:104
 msgid ""
 "The MidiGurdy outputs MIDI messages on three separate MIDI channels, one "
 "for each string type.  By default, the following MIDI channels are used:"
 msgstr ""
+"Die MidiGurdy gibt MIDI-Nachrichten auf drei separaten MIDI-Kanälen aus, "
+"einen für jeden Saitentyp.  Standardmäßig werden die folgenden MIDI-Kanäle "
+"verwendet:"
 
 #: ../../source/MIDI.rst:107
 msgid "Melody: MIDI channel 1"
-msgstr ""
+msgstr "Melodie: MIDI-Kanal 1"
 
 #: ../../source/MIDI.rst:108
 msgid "Trompette: MIDI channel 2"
-msgstr ""
+msgstr "Schnarre: MIDI-Kanal 2"
 
 #: ../../source/MIDI.rst:109
 msgid "Drone: MIDI channel 3"
-msgstr ""
+msgstr "Bordun: MIDI-Kanal 3"
 
 #: ../../source/MIDI.rst:111
 msgid "Which strings output via MIDI"
-msgstr ""
+msgstr "Welche Saiten über MIDI ausgegeben werden"
 
 #: ../../source/MIDI.rst:113
 msgid ""
@@ -225,32 +291,41 @@ msgid ""
 "And only the first string of each type actually outputs via MIDI, so only"
 " Melody 1, Drone 1 and Trompette 1"
 msgstr ""
+"**Wichtig:** nur konfigurierte und aktivierte Saiten (Saiten denen ein Klang "
+"zugeordnet und eingeschaltet sind) senden MIDI-Nachrichten. Und nur die "
+"erste Saite jedes Typs wird tatsächlich über MIDI ausgegeben, also nur "
+"Melodie 1, Bordun 1 und Schnarre 1"
 
 #: ../../source/MIDI.rst:120
 msgid "Melody String MIDI Messages"
-msgstr ""
+msgstr "MIDI-Nachrichten für Melodiesaiten"
 
 #: ../../source/MIDI.rst:122
 msgid ""
 "Note On/Off, with a range of fixed velocities - sent in reaction to key "
 "presses and wheel start / stop"
 msgstr ""
+"Note On/Off, mit festen Velocity Werten - werden in Reaktion auf "
+"Tastendrücke und der Kurbelbewegung verschickt"
 
 #: ../../source/MIDI.rst:125 ../../source/MIDI.rst:143
 msgid ""
 "Expression Control (CC 11) - used for volume instead of Note-on velocity,"
 " controlled by the speed of the wheel"
 msgstr ""
+"Expression Control (CC 11) - wird statt der Velocity für die Lautstärke des "
+"Klangs verwendet, kontrolliert durch die Drehgeschwindigkeit"
 
 #: ../../source/MIDI.rst:128
 msgid ""
 "Channel pitch bend - depends on the key pressure of the highest pressed "
 "key"
 msgstr ""
+"Channel pitch bend - hängt von dem Druck auf die Tasten der Klaviatur ab"
 
 #: ../../source/MIDI.rst:130
 msgid "Keyboard Mode"
-msgstr ""
+msgstr "Keyboard Modus"
 
 #: ../../source/MIDI.rst:132
 msgid ""
@@ -260,30 +335,37 @@ msgid ""
 "keys. In this mode the MidiGurdy melody string behaves similar to a "
 "keyboard / piano."
 msgstr ""
+"**Anmerkung:** Wenn Sie den **Keyboard-Modus** für die Melodiesaite wählen, "
+"werden keine Expression-Nachrichten gesendet und die Geschwindigkeit "
+"(Lautstärke) der Note-On-Nachrichten wird durch die Geschwindigkeit bzw. "
+"Kraft bestimmt, mit der Sie die Tasten drücken. In diesem Modus verhält sich "
+"die MidiGurdy Klaviatur ähnlich wie ein Keyboard / Klavier."
 
 #: ../../source/MIDI.rst:139
 msgid "Drone String MIDI Messages"
-msgstr ""
+msgstr "MIDI-Nachrichten für Bordun-Saiten"
 
 #: ../../source/MIDI.rst:141
 msgid "Note on/off, with fixed velocity"
-msgstr ""
+msgstr "Note on/off, mit fester Velocity"
 
 #: ../../source/MIDI.rst:148
 msgid "Trompette String MIDI Messages"
-msgstr ""
+msgstr "MIDI-Nachrichten für Schnarrsaiten"
 
 #: ../../source/MIDI.rst:150
 msgid "**In \"MidiGurdy\" mode:***"
-msgstr ""
+msgstr "**In \"MidiGurdy-Modus:**"
 
 #: ../../source/MIDI.rst:152
 msgid "Note on/off, with fixed velocity - Note On as soon as you move the wheel"
-msgstr ""
+msgstr "Note on/off, mit fester Velocity - Note On sobald das Rad gedreht wird"
 
 #: ../../source/MIDI.rst:154
 msgid "Expression (CC 11) - used for volume, controlled by the speed of the wheel"
 msgstr ""
+"Expression (CC 11) - kontrolliert statt der Note-On Velocity die Lautstärke "
+"des Kanals, kontrolliert durch die Drehgeschwindigkeit"
 
 #: ../../source/MIDI.rst:156
 msgid ""
@@ -360,4 +442,3 @@ msgid ""
 "modelling. Depending on your playing style, string modes and enabled "
 "strings, it can be as much as 5000 messages per second."
 msgstr ""
-
