@@ -126,6 +126,13 @@ Press any of these buttons, turn the crank and notice how the string sound gets
 switched on or off. An illuminated button means the string is currently
 switched on.
 
+Please note that a **short press** on the string button only switches the first
+string of each type. The "String Set" buttons described below allow you to also
+control the second and third string of each type individually.
+
+Or you can use a **long press** on the string button to switch *all* strings of
+that type on or off.
+
 The String Set Buttons (Set 2 and Set 3)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
