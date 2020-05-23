@@ -108,52 +108,48 @@ The lid of the tangent box contains five buttons, arranged in two groups. Let’
 look at the group of three buttons closest to the player first, called the
 “String Buttons“.
 
-The String Buttons (S1 S2 S3)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The String Buttons (Drone, Melody, Trompette)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 These buttons are used to switch individual strings on and off (lift them on
 and off the wheel). The order of the buttons follows the string positions on
 an acoustic hurdy-gurdy:
 
-*   **S1** drone string (closest to the keyboard)
+*   **Drone string**, closest to the keyboard
 
-*   **S2** melody string (centre)
+*   **Melody string**, in the middle
 
-*   **S3** trompette string (closest to the player)
+*   **Trompette string**, closest to the player
 
 
 Press any of these buttons, turn the crank and notice how the string sound gets
 switched on or off. An illuminated button means the string is currently
 switched on.
 
-The Group Buttons (G2 G3)
-~~~~~~~~~~~~~~~~~~~~~~~~~
+The String Set Buttons (Set 2 and Set 3)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The two black buttons on the tangent box lid are called the “Group“ buttons.
-The MidiGurdy has a total of nine strings but only three String Buttons for
-switching the strings on and off. This is why the Strings are arranged in three
-groups:
+The two black buttons on the tangent box lid are called the “String Set“
+buttons.  As the MidiGurdy only has one button for each string type (drone,
+melody, trompette) but three possible strings for each type, the string set
+buttons can be used to control the other two strings of each type.
 
-* Group 1 – Drone 1, Melody 1, Trompette 1 (activated by default)
+If you only press the String Buttons **Drone**, **Melody** or **Trompette** you
+are switching the first string of each type.
 
-* Group 2 – Drone 2, Melody 2, Trompette 2 ( activated with **G2**)
+If you want to control the second string of any type, simply hold the **Set 2**
+button while pressing any of the string buttons.
 
-* Group 3 – Drone 3, Melody 3, Trompette 3 (activated with **G3**)
+If you want to control the third string of any type, simply hold the **Set 3**
+button while pressing any of the string buttons.
 
-If you only press the String Buttons **S1**, **S2** or **S3** you are controlling the strings in
-**Group 1**, as this group is active by default (i.e. if you don’t press any of the Group Buttons.)
-
-If you want to control the strings in **Group 2** instead, you simply hold the
-**G2** button while pressing any of the String Buttons. Or hold the **G3** button while pressing the
-String Buttons to control the strings in **Group 3**.
-
-As soon as you press one of the Group Buttons, the illumination of the String
+As soon as you press one of the String Set buttons, the illumination of the String
 Buttons changes to indicate the on/off state of the drone, melody and trompette
-string in that group.
+string in that set.
 
-Pressing the Group Buttons only affects which strings you switch on and off
-with the String Buttons.  They have no other effect on the instrument.  You can
-mix and match strings from all groups while playing, or even play all nine
+The String Set buttons only affect which strings you switch on and off with the
+String Buttons.  They have no other effect on the instrument.  You can mix and
+match strings from different string sets while playing, or even play all nine
 strings simultaneously.
 
 
