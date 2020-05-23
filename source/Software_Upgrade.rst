@@ -39,11 +39,11 @@ before the upgrade and restore ( or recreate) it again afterwards.
 Upgrading via USB stick
 -----------------------
 
-In order to upgrade the MidiGurdy software, you will need a USB stick with
-sufficient space for the upgrade file. Download the new software release from
-the MidiGurdy website to your computer and store it on the USB stick. Make sure
-you store it with the exact filename, i.e. the version 1.2.3 will be called
-“midigurdy-1.2.3.swu”
+In order to upgrade the MidiGurdy software, you will need a FAT/FAT32 formatted
+USB stick with sufficient space for the upgrade file. Download the new software
+release from the MidiGurdy website to your computer and store it on the USB
+stick. Make sure you store it with the exact filename, i.e. the version 1.2.3
+will be called “midigurdy-1.2.3.swu”
 
 Eject the USB stick from your computer and attach it to the MidiGurdy via the
 USB-A host port. After a few seconds the MidiGurdy will inform you that it has
@@ -81,6 +81,12 @@ to.
     order to function properly (especially sticks with very high capacity or
     USB 3.0 transfer speeds). If your stick is not recognized, please try a
     different USB stick with a lower power consumption.
+
+.. admonition:: MacOS Users: Please format your USB stick with FAT / FAT32
+
+    When you format a USB stick with MacOS, you can choose between "MacOS
+    Extended", "AFPS" and "FAT" filesystems. Please make sure to format your stick
+    with **FAT** to make it work in the MidiGurdy.
 
 In case the upgrade process was interrupted by a power failure or has failed
 due to a different reason, the previous software version will still be intact
