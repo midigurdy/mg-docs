@@ -25,18 +25,9 @@ configurable period of inactivity (see :ref:`configuration-menu`).
 
 The largest part of the display is taken up by the visualisation of the
 **current string state and tuning**. From left to right you see the state for
-the drone, melody and trompette strings. Each area is divided into three
-sections: the top row shows the first string of each type, the bottom left the
-second and bottom right the third string. Enabled strings are shown with black
-text on white background, disabled strings are shown with white text on black
-background. Each section contains the currently chosen note for that particular
-string.
+the drone, melody and trompette strings. 
 
-As an example, the picture above shows that there are currently four active
-strings: the first and second drone string, the first melody string and the
-second trompette string. Drone strings are tuned to D, D and G, the melody
-strings are all tuned to G and trompette strings are tuned to D, G, and G.  P
-lease note that the display does not show the octave of the current tuning. To
+Please note that the display does not show the octave of the current tuning. To
 see which octave a string is tuned to, you would have to open the respective
 String Setup Menu (see below) by pressing the buttons under the string label.
 
@@ -74,14 +65,6 @@ turn **ROT** left or right when you are on the Home Screen.
 
 Turn right to make the chien more sensitive (to start buzzing at lower cranking
 speeds), turn left to make it less sensitive.
-
-.. admonition:: Single or separate chien sensitivity
-
-    Please note that by default the chien sensitivity affects all three
-    trompette strings at the same time. If you wish to control the three
-    chien sensitivities separately, please enable this feature in the
-    web-interface by going to "Advanced / Settings" and enabling the option
-    "Separate chien sensitivities" in the "Features" box.
 
 .. _volume-menus:
 
@@ -122,31 +105,16 @@ String Menus
 
 The String Menus are used to change the setup of all melody, drone and
 trompette strings of the MidiGurdy.  You can access the String Menus by
-pressing one of the first three buttons D1 D2 D3 under the display, labelled
-“Drone”, “Melody” and “Tromp” (for Trompette).
+pressing the first three buttons under the display, D1 for “Drone”, D2 for
+“Melody” and D3 for “Tromp” (Trompette).
 
 These buttons always open up the String Menu, even when those labels are not
 shown above the buttons. Only if you see other labels above the buttons will
 their function be different.
 
-.. figure:: images/menu_m123.png
-    :width: 7cm
-    :class: img-auto
-
-When you press a String Menu button once, you open the String Menu for the
-first string of the chosen type, as indicated by the bar on the left of the
-screen. Press it again to choose the second string, and again to choose the
-third string.
-
-For example, if you press **D2** once, “M1” is selected in the left bar,
-indicating that you are editing the first melody string. Press it again to to
-edit the second melody string (“M2” is selected in the left bar) and again to
-select to edit the third melody string (“M3” selected in the left bar).  The
-drone and trompette buttons work in exactly the same way.
-
 .. _common-string-items:
 
-Common Menu Items
+String Menu Items
 ~~~~~~~~~~~~~~~~~
 
 All three string types – melody, drone and trompette – start with the same
@@ -174,8 +142,8 @@ configuration items
   individual string in cent. 100 cent equal one semitone.
 
 
-Melody String Items
-~~~~~~~~~~~~~~~~~~~
+Menu Items only for Melody Strings
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In addition to the items common to all string types, the Melody String Menu
 contains a few additional items that are only relevant for melody strings:
@@ -190,44 +158,12 @@ contains a few additional items that are only relevant for melody strings:
   more keys at the same time, you will hear all notes simultaneously instead of
   just the note of the highest key.
 
-* **Mode** – This setting controls how the physical controls (keyboard and
-  crank) affect the sound generation on this string:
-
-    * “Hurdy-Gurdy”: this mode simulates a hurdy-gurdy. The string will only
-      produce a sound if the crank is turned and the keyboard reacts similar to
-      an acoustic hurdy-gurdy. This mode is the default for all “generic”
-      Soundfonts (i.e. Soundfonts which were not specifically created for the
-      MidiGurdy).
-
-    * “MidiGurdy”: this mode is very similar to the “Hurdy-Gurdy” mode, but
-      adds extended sound control via the keyboard. This mode is mostly useful
-      for Soundfonts which have been specifically created for the MidiGurdy and
-      is the default for those Soundfonts.
-
-    * “Keyboard”: in this mode, the string can be played as if the MidiGurdy
-      were a piano. Sound is only controlled via the keyboard and you don’t
-      need to turn the crank to hear a sound. The keyboard is
-      velocity-sensitive, which means that the volume of the sound is dependent
-      on how fast you press the keys.
-
-Trompette String Items
-~~~~~~~~~~~~~~~~~~~~~~
-
-In addition to the items common to all string types, the Trompette String Menu
-contains a few additional items that are only relevant for trompette strings:
-
-* **Mode** – This setting controls how the wheel speed affects the sound
-  generation of this string, especially how the chien sound is generated and
-  controlled:
-
-    * “MidiGurdy”: (default) This mode is the default and the correct mode
-      for all hurdy-gurdy trompette / chien sounds designed for the MidiGurdy.
-
-    * “Percussion”: this mode is useful if you want to use the chien of the
-      trompette string to trigger other, non-hurdy-gurdy sounds like drums,
-      percussion, plugged base or similar instruments. The string will only
-      output sound if the chien would sound, the volume of the sound depends on
-      how hard and fast the attach of your coup is.
+* **Keyboard Mode** – If enabled, the keyboard works as if the MidiGurdy were a
+  piano. Sound is only controlled via the keyboard and you don’t need to turn
+  the crank to hear a sound. The keyboard is velocity-sensitive, which means
+  that the volume of the sound is dependent on how fast you press the keys.
+  **Please note that this mode is not available if the string is set to a
+  hurdy-gurdy sound**.
 
 
 Preset Menu
@@ -337,12 +273,12 @@ Configuration Menu
     :width: 7cm
     :class: img-auto
 
-The configuration menu contains many settings that affect the instrument as a
-whole:
+The configuration menu can be reached by **pressing D4 twice** (once to see the
+Presets Menu, then again to open the Configuration Menu). It contains many
+settings that affect the instrument as a whole:
 
 * **Coarse Tune** – shifts the tuning of all strings of the MidiGurdy up or
   down the given number of semitones.
-
 
 * **Fine Tune** – shifts the tuning of all strings of the MidiGurdy up or down
   the given number of cents. The default tuning (Fine Tune = 0, Coarse Tune =
@@ -365,7 +301,14 @@ whole:
 * **MIDI…** - opens the MIDI configuration menu. Please see :ref:`midi` on how
   to configure the MIDI input and output.
 
+* **Instrument Mode…** - With this setting you can choose how many strings
+  the MidiGurdy should have and change the function of the lid buttons Mod1, Mod2.
+  Please see the :ref:`instrument-modes` section for more information.
+
 * **Brightness** – Controls the brightness of the display.
 
 * **Disp. Timeout** – Controls the number of seconds of inactivity after which
   the menu system will return to the Home Screen automatically.
+
+* **Preload Presets** - This function loads all sounds of all your presets into
+  memory, enabling much faster preset switching.

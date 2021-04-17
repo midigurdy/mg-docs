@@ -39,6 +39,7 @@ Table of Contents
     Connections
     The_Menu_System
     MIDI
+    Instrument_Modes
     The_Web_Interface
     Software_Upgrade
     Adjusting_the_Keyboard

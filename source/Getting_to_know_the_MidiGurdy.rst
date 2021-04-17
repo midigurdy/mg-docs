@@ -105,7 +105,7 @@ main user interface.
     Buttons in the tangent box lid
 
 The lid of the tangent box contains five buttons, arranged in two groups. Let’s
-look at the group of three buttons closest to the player first, called the
+look at the group of three buttons closest to the player first, also called the
 “String Buttons“.
 
 The String Buttons (Drone, Melody, Trompette)
@@ -126,38 +126,20 @@ Press any of these buttons, turn the crank and notice how the string sound gets
 switched on or off. An illuminated button means the string is currently
 switched on.
 
-Please note that a **short press** on the string button only switches the first
-string of each type. The "String Set" buttons described below allow you to also
-control the second and third string of each type individually.
-
-Or you can use a **long press** on the string button to switch *all* strings of
-that type on or off.
-
-The String Set Buttons (Set 2 and Set 3)
+The Modifier Buttons (Mod1 and Mod2)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The two black buttons on the tangent box lid are called the “String Set“
-buttons.  As the MidiGurdy only has one button for each string type (drone,
-melody, trompette) but three possible strings for each type, the string set
-buttons can be used to control the other two strings of each type.
+The two black buttons on the tangent box lid are called the “Modifier Buttons“.
+By default, those two buttons can be used to:
 
-If you only press the String Buttons **Drone**, **Melody** or **Trompette** you
-are switching the first string of each type.
+* load the **previous preset** (Mod1), or
 
-If you want to control the second string of any type, simply hold the **Set 2**
-button while pressing any of the string buttons.
+* load the **next preset** (Mod2).
 
-If you want to control the third string of any type, simply hold the **Set 3**
-button while pressing any of the string buttons.
-
-As soon as you press one of the String Set buttons, the illumination of the String
-Buttons changes to indicate the on/off state of the drone, melody and trompette
-string in that set.
-
-The String Set buttons only affect which strings you switch on and off with the
-String Buttons.  They have no other effect on the instrument.  You can mix and
-match strings from different string sets while playing, or even play all nine
-strings simultaneously.
+The action of the Modifier Buttons can also be changed in the Web-Interface.
+For example, once you are more familiar with the MidiGurdy and you want to use
+more than three strings, you can use there buttons to select a second or third
+set of strings.
 
 
 User Interface

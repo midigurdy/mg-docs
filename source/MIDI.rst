@@ -147,6 +147,12 @@ Drone String MIDI Messages
 Trompette String MIDI Messages
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Which MIDI messages are sent by the trompette string depends on the internal
+mode of the string. The mode is determined automatically by the type of sound
+selected for this string. If you choose a "normale" MidiGurdy trompette sound,
+then it's in the "MidiGurdy" mode. If you choose a different sound, 
+it is automatically switched to the "Percussion" mode.
+
 **In "MidiGurdy" mode:***
 
 - Note on/off, with fixed velocity - Note On as soon as you move the wheel
